@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: ""
 form_id: contactForm
 form_action: /contact-success
 form_fields:
@@ -33,8 +33,7 @@ form_fields:
   - type: form_field
     input_type: checkbox
     name: consent
-    label: >-
-      I understand that this form is storing my submitted information so I can
+    label: I understand that this form is storing my submitted information so I can
       be contacted.
 submit_label: Send Message
 layout: contact
