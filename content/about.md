@@ -1,7 +1,7 @@
 ---
 title: About Mark
 subtitle: ''
-img_path: images/img_0389.JPG
+img_path: images/img_0389.jpeg
 layout: page
 
 ---
