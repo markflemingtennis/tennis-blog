@@ -4,19 +4,16 @@ auto_deploy: false
 admin_path: "/forestry"
 webhook_url: 
 sections:
-- type: document
-  path: config.yaml
-  label: config.yaml
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 - type: directory
   path: content/posts
   label: Posts
   create: all
   match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: static/images
 public_path: static/images
 front_matter_path: ''
