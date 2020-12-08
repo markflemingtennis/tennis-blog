@@ -1,6 +1,6 @@
 ---
 title: About Mark
-subtitle: This is a short page about me and my work
+subtitle: ''
 img_path: img_0389.JPG
 layout: page
 
