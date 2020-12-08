@@ -7,7 +7,7 @@ params:
   header:
     type: header
     title: Ampersand
-    logo_img: images/logo.png
+    logo_img: /images/logo.png
     has_nav: true
     nav_links:
       - type: action
@@ -17,10 +17,6 @@ params:
       - type: action
         label: About
         url: /about
-        style: link
-      - type: action
-        label: Style Guide
-        url: /style-guide
         style: link
       - type: action
         label: Contact
@@ -64,14 +60,9 @@ params:
         icon_class: fa-dev
         new_window: true
     subscribe_action: /subscribe-success
-    has_social: true
-    content: "&copy; All rights reserved."
-    links:
-      - type: action
-        label: Made with Stackbit
-        url: https://www.stackbit.com
-        style: link
-        new_window: true
+    has_social: false
+    content: "&copy; Mark Fleming. All rights reserved."
+    links: []
     type: footer
 taxonomies:
   stub: stub
