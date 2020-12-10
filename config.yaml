@@ -2,7 +2,7 @@
 title: Mark Fleming Tennis
 baseURL: "/"
 params:
-  description: Mark Fleming blog about tennis.
+  description: Mark Fleming is a USPTA tennis professional in Milwaukee, WI. This blog is dedicated to providing tennis tips, drills, and training to players of all ages and skill levels.
   layout_style: grid
   palette: blue
   header:
