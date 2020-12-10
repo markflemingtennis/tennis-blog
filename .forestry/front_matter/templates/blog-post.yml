@@ -14,6 +14,11 @@ fields:
 - type: file
   name: content_img_path
   label: content_img_path
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
 - type: textarea
   name: excerpt
   label: excerpt
