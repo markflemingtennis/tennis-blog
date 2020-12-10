@@ -4,3 +4,5 @@ Disallow: /tmp/
 Disallow: /junk/
 Disallow: /admin/
 Disallow: /login/
+
+sitemap: https://markflemingtennis.com/sitemap.xml
