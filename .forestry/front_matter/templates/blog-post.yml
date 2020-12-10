@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: layout
+  label: layout
+  description: post
 - type: datetime
   name: date
   label: date
@@ -22,6 +26,3 @@ fields:
 - type: textarea
   name: excerpt
   label: excerpt
-- type: text
-  name: layout
-  label: layout
