@@ -1,0 +1,16 @@
+---
+label: Page Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: file
+  name: img_path
+  label: img_path
+- type: text
+  name: layout
+  label: layout
