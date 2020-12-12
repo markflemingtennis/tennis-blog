@@ -36,9 +36,7 @@ form_fields:
   label: I understand that this form is storing my submitted information so I can
     be contacted.
 submit_label: Send Message
-layout: contact
+layout: page
 
 ---
 Fill the form below to get in touch with me at any time.
-
-{{% "form.html" %}}
