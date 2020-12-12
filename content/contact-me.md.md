@@ -7,4 +7,4 @@ title = "Contact Me"
 +++
 This is a test of the contact page.
 
-{{% "form.html" %}}
+{{% "/layouts/partials/form.html" %}}
