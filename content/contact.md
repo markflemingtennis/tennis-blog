@@ -39,8 +39,6 @@ submit_label: Send Message
 layout: contact
 
 ---
-Fill the form below to get in touch with me.
-
-ggg
+Fill the form below to get in touch with me at any time.
 
 {{% "form.html" %}}
