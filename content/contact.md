@@ -2,7 +2,7 @@
 title: Get in Touch
 img_path: ''
 form_id: contactForm
-form_action: "/contact-success"
+form_action: mailto:markflemingtennis@gmail.com
 form_fields:
 - type: form_field
   input_type: text
