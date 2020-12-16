@@ -5,4 +5,10 @@ img_path: images/img_0389.jpeg
 layout: page
 
 ---
-**Mark Fleming**  is a Certified U.S.P.T.A. Elite Teaching Professional and possesses a Master's Degree in Sports Psychology. He taught in the tennis community programs and clubs for over thirty years in many states. He has taught players of all ages from the tiny tots to the district, sectional, and national levels. His college coaching success includes 519 team victories and his teams have received regional and national rankings. As a college player, Mark has achieved tournament singles rankings in several states. Fleming was twice ranked number one in doubles in West Virginia and a member of a winning USTA/Middle States Association Interdistrict team.
+Hi I’m Coach Mark and tennis is my passion.
+
+Over the past 50 years I’ve had the opportunity to develop insight into the game of tennis through teaching and coaching experiences, playing experiences and academic experiences.
+
+As a player I played first singles for my high school team for three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion,
+
+My college years saw me playing first singles for the team all four years placing second place in the State University of New Athletic Conference Tournament at both first singles and first doubles during that time.
