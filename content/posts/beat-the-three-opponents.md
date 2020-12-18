@@ -51,4 +51,4 @@ Three key components of beating the net include:
 
 * 
 
-## **OPPONENT THREE: BEAT THE LINES**
+## OPPONENT THREE: BEAT THE LINES
