@@ -1,16 +1,13 @@
 ---
 title: IMPROVE YOUR TENNIS BY BEATING THREE OPPONENTS
-subtitle: |
-  Each of us has opponents who consistently frustrate us on the tennis courts.
-
-  From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus on overcoming three opponents to make ourselves better players.
+subtitle: "\n"
 date: 2020-12-17T00:00:00-06:00
 thumb_img_path: images/img_0389.jpeg
 content_img_path: images/img_0389.jpeg
-excerpt: Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by means
-  of an image sensor, or chemically by means of a light-sensitive material such as
-  photographic film.
+excerpt: |-
+  Each of us has opponents who consistently frustrate us on the tennis courts.
+
+  From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus on overcoming three opponents to make ourselves better players.
 layout: post
 
 ---
