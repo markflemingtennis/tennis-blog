@@ -27,7 +27,7 @@ Three key components to improve in hitting the ball include:
 * Physically prepare by getting the weight of your body on the balls of your feet ready to move.
 * Mentally prepare by watching the ball leave your opponent’s racket after they have hit it.
 * Initiate your movement with a reaction step immediately as you identify the direction your opponent’s shot is traveling.
-* Make every effort to arrive at the anticipated area the ball will bounce either as, or shortly after it crosses the net to your side depending on the speed of the incoming shot .
+* Desire to make every effort to arrive at the anticipated area the ball will bounce either as, or shortly after it crosses the net to your side depending on the speed of the incoming shot .
 
 ### 2. Prepare to Hit The Ball
 
