@@ -2,8 +2,8 @@
 title: IMPROVE YOUR TENNIS BY BEATING THREE OPPONENTS
 subtitle: "\n"
 date: 2020-12-17T00:00:00-06:00
-thumb_img_path: images/img_0389.jpeg
-content_img_path: static/images/clara-tauson.jpeg
+thumb_img_path: images/clara-tauson.jpeg
+content_img_path: images/clara-tauson.jpeg
 excerpt: "Each of us has opponents who consistently frustrate us on the tennis courts.
   \                                                                                                                                            \n\nFrom
   a psychological standpoint we should strive to eliminate our focus on the personality
