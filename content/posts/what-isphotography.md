@@ -1,7 +1,7 @@
 ---
 title: IMPROVE YOUR TENNIS BY BEATING THREE OPPONENTS
 subtitle: ''
-date: 2018-01-15
+date: 2020-12-17T00:00:00-06:00
 thumb_img_path: images/img_0389.jpeg
 content_img_path: images/img_0389.jpeg
 excerpt: Photography is the science, art and practice of creating durable images by
