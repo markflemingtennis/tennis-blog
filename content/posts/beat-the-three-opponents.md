@@ -22,17 +22,18 @@ Our first opponent to overcome is hitting the ball.
 
 Three key components to improve in hitting the ball include:
 
-### 1. Get To The Ball
+### 1. Prepare to Hit The Ball
 
-* Physically prepare by getting the weight of your body on the balls of your feet ready to move.
-* Mentally prepare by watching the ball leave your opponent’s racket after they have hit it.
-* Initiate your movement with a reaction step immediately as you identify the direction your opponent’s shot is traveling.
-* Desire to make every effort to arrive at the anticipated area the ball will bounce either as, or shortly after it crosses the net to your side depending on the speed of the incoming shot .
+* Physically prepare by getting in the ready position with the weight of your body on the balls of your feet ready to move.
+* Mentally prepare by not just being physically ready position, but just as or more importantly watching the ball leave your opponent’s racket after they have made contact to start your response.
 
-### 2. Prepare to Hit The Ball
+### 2. Get To The Ball
 
-* Run with your racket back.
+* Initiate your movement by pushing off with a reaction step immediately as you identify the direction your opponent’s shot is traveling.
+* Run with your racket prepared.
 * Utilize longer running strides to get to balls which are a greater distance away. 
+* Desire to make every effort to arrive at the anticipated ball bounce area either as, or shortly after it crosses the net to your side depending on the speed of the incoming shot .
+* Incorporate shorter steps, shuffling, or a combination of both to reach balls closer to you.
 * 
 
 ### 3. Watch The Ball
