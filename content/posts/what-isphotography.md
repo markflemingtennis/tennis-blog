@@ -4,11 +4,11 @@ subtitle: "\n"
 date: 2020-12-17T00:00:00-06:00
 thumb_img_path: images/img_0389.jpeg
 content_img_path: images/img_0389.jpeg
-excerpt: |-
-  Each of us has opponents who consistently frustrate us on the tennis courts.
-
-  From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus on overcoming three opponents to make ourselves better players.
-layout: post
+excerpt: ''
+layout: Each of us has opponents who consistently frustrate us on the tennis courts.  From
+  a psychological standpoint we should strive to eliminate our focus on the personality
+  of the individual on the other side of the court, and instead focus on overcoming
+  three opponents to make ourselves better players.
 
 ---
 
