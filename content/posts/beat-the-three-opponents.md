@@ -14,7 +14,11 @@ layout: post
 ---
 Each of us has opponents who consistently frustrate us on the tennis courts.
 
-From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus on overcoming three opponents to make ourselves better players.
+In reality, most of us will never have the opportunity to compete against the best of the best such as Roger, Rafa, Novak, Serena, Vicka, or Naomi.
+
+However, whether you are playing against a players at the Hall of Fame, advanced, intermediate, or novice levels there are mindsets and technical fundamentals which can assist you in achieving greater levels of success.
+
+From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus on from a technical standpoint overcoming three opponents to make ourselves better players.
 
 ## OPPONENT ONE: HIT THE BALL
 
@@ -31,7 +35,7 @@ Three key components to improve in hitting the ball include:
 
 * Initiate your movement by pushing off with a reaction step immediately as you identify the direction your opponent’s shot is traveling.
 * Run with your racket prepared.
-* Utilize longer running strides to get to balls which are a greater distance away. 
+* Utilize longer running strides to get to balls which are a greater distance away.
 * Desire to make every effort to arrive at the anticipated ball bounce area either as, or shortly after it crosses the net to your side depending on the speed of the incoming shot .
 * Incorporate shorter steps, shuffling, or a combination of both to reach balls closer to you.
 * Conclude your stroke preparation by incorporating short adjustment steps to get yourself in the best position with the best possible balance to hit the best possible shot you are capable of in the given situation.
@@ -52,6 +56,7 @@ Reason then suggests if we can continually improve our ability to hit all of our
 
 Three key components of beating the net include:
 
-* 
+* Backswing below the ball
+* Clear the net  by three to five feet
 
 ## OPPONENT THREE: BEAT THE LINES
