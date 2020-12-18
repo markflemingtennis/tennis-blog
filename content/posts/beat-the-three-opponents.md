@@ -20,7 +20,7 @@ From a psychological standpoint we should strive to eliminate our focus on the p
 
 Our first opponent to overcome is hitting the ball.
 
-Three key components of hitting the ball include:
+Three key components to improve in hitting the ball include:
 
 ### 1. Get To The Ball
 
@@ -32,6 +32,8 @@ Three key components of hitting the ball include:
 ### 2. Prepare to Hit The Ball
 
 * Run with your racket back.
+* Utilize longer running strides to get to balls which are a greater distance away. 
+* 
 
 ### 3. Watch The Ball
 
