@@ -5,9 +5,9 @@ img_path: images/img_0389.jpeg
 layout: page
 
 ---
-My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) was of the mindset anything worth learning can be learned at the public library.
+My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
 
-Fortunately the book he brought home was by Rod Laver who was to win all four Grand Slam majors that calendar year for the second time.
+Fortunately the book he brought home was by Rod Laver who was to win all four Grand Slam majors in the 1969 calendar year for the second time.
 
 An increasing amount of television broadcasts with legendary Bud Collins enabled me to regularly study, learn, and visualize from the tennis games of two of the top professional players of the time, 1969 Wimbledon finalists Rod Laver and John Newcombe.
 
