@@ -5,9 +5,15 @@ img_path: images/img_0389.jpeg
 layout: page
 
 ---
-My formal tennis began subsequent to informing my father my father I wanted to learn how to learn to play tennis and he having the mindset of Will Hunting many years prior to the movie anything worth learning can be learned at the library brought me home a book.
+My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) was of the mindset anything worth learning can be learned at the public library.
 
-Fortunately the book he brought home was a book by Rod Laver who was to win all four Grand Slam majors that calendar year for the second time.
+Fortunately the book he brought home was by Rod Laver who was to win all four Grand Slam majors that calendar year for the second time.
+
+An increasing amount of television broadcasts with legendary Bud Collins enabled me to regularly study, learn, and visualize from the tennis games from two of top professional players of the time, 1969 Wimbledon finalists Rod Laver and John Newcombe.
+
+On January 9, 1971 I was also able to see my first live professional tennis match featuring Rod Laver and John Newcombe. The Rochester War Memorial featured these two players in the 1971 Tennis Champions Classic series of winner take all matches.
+
+Playing Career
 
 As a player I played first singles for my high school team for three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion,
 
