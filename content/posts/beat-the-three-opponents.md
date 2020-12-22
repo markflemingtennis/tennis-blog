@@ -65,6 +65,6 @@ Three key components of beating the net include:
 
 Many people subsequent to being unsuccessful in a tennis match lament they beat themselves and their opponent did not beat them.
 
-In reality, however, our responsibility is to the best of our ability is to continually strive to successfully beat the: 1) ball, 2) net, and 3) lines.
+In reality, however, our responsibility is, to the best of our ability, continually strive to successfully beat the: 1) ball, 2) net, and 3) lines.
 
 Only then do we need to worry regarding the individual we are opposing.
