@@ -48,8 +48,8 @@ The techniques to attempt to master in watching the ball include:
 
 * Watch the ball leave your opponent's racket as described above.
 * Track the ball as it crosses the net and approaches you.
-* Keep your head down and make every attempt to see the ball contact the racket in the "sweetspot".
-* head down after contact
+* Keep your head down and make every attempt to see the ball contact the racket in the "sweet spot".
+* Avoid mishitting the ball by looking up too soon by keeping your head down and watching the contact point for a split second after contact, then looking up.
 
 ## OPPONENT TWO: BEAT THE NET
 
@@ -68,7 +68,7 @@ Three key components of beating the net include:
 
 ## OPPONENT THREE: BEAT THE LINES
 
-In the fifty years of playing, teaching, and coaching tennis 
+In the fifty years of playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but don't seem to be able to control the ball by frequently hitting the ball either long or wide of the court. 
 
 * Beginner low smooth follow through
 * Advanced Player Topspin
