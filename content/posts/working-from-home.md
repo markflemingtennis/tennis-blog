@@ -12,9 +12,11 @@ In current doubles, players most frequently find themselves in one up and one ba
 
 When doubles teams are in a one up one back formation, and the opponents lob over the net person's head, what are the player's resulting responsibilities?
 
-To assist tennis players in visualizing their responsibilities in this 
+To assist players in visualizing their responsibilities in this situation it is helpful to refer to the game of football. 
 
-In football quarterback such as Aaron Rodgers are responsible for reading defensive sets in communicating through audible's adjustments which are necessitated by his teammates.
+In football, quarterbacks such as perennial NFL MVP candidate Aaron Rodgers initial task is to view and read the opponents defensive sets in front of him. 
+
+If the opposing teams defensive formation are counter to the originally called play he must communicate through audibles, adjustments which are necessitated by the manner in which opponents have lined up.
 
 Likewise, in tennis doubles where teammates are in a one up and one back situation the players in the back like the quarterback sees the court better and must instruct the players at the net what they need to do.
 
