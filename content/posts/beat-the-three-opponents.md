@@ -16,7 +16,7 @@ Each of us has opponents who consistently frustrate us on the tennis courts.
 
 In reality, most of us will never have the opportunity to compete against the best of the best such as Roger, Rafa, Novak, Serena, Vicka, or Naomi.
 
-However, whether you are playing against a players at the Hall of Fame, advanced, intermediate, or novice levels there are mindsets and technical fundamentals which can assist you in achieving greater levels of success.
+However, whether you are playing against players at the Hall of Fame, advanced, intermediate, or novice levels there are mindsets and technical fundamentals which can assist you in achieving greater levels of success.
 
 From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus on from a technical standpoint overcoming three opponents to make ourselves better players.
 
@@ -49,7 +49,7 @@ The techniques to attempt to master in watching the ball include:
 * Watch the ball leave your opponent's racket as described above.
 * Track the ball as it crosses the net and approaches you.
 * Keep your head down and make every attempt to see the ball contact the racket in the "sweet spot".
-* Avoid mishitting the ball by looking up too soon by keeping your head down and watching the contact point for a split second after contact, then looking up.
+* Avoid mishitting the ball by looking up too soon, by keeping your head down and watching the contact point for a split second after contact, then looking up.
 
 ## OPPONENT TWO: BEAT THE NET
 
