@@ -1,5 +1,5 @@
 ---
-title: To Improve Your Tennis Learn Beat Three Opponents
+title: To Improve Your Tennis Learn Beat Three Primary Opponents
 subtitle: "\n"
 date: 2020-12-17T00:00:00-06:00
 thumb_img_path: images/clara-tauson.jpeg
