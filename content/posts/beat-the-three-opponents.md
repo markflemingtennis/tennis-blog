@@ -1,5 +1,5 @@
 ---
-title: Improve  Your Tennis By Beating Three Opponents
+title: To Improve Your Tennis Learn Beat Three Opponents
 subtitle: "\n"
 date: 2020-12-17T00:00:00-06:00
 thumb_img_path: images/clara-tauson.jpeg
@@ -42,8 +42,14 @@ Three key components to improve in hitting the ball include:
 
 ### 3. Watch The Ball
 
-* To control your ensuing shot the ultimate goal is to make an effort to watch the ball in a manner to allow you to hit the ball in the center of the racket, it's "sweet spot".  
-* Like a golfer
+To control your ensuing shot the ultimate goal is to make an effort to watch the ball in a manner to allow you to hit the ball in the center of the racket, it's "sweet spot".  
+
+The techniques to attempt to master in watching the ball include:
+
+* Watch the ball leave your opponent's racket as described above.
+* Track the ball as it crosses the net and approaches you.
+* Keep your head down and make every attempt to see the ball contact the racket in the "sweetspot".
+* head down after contact
 
 ## OPPONENT TWO: BEAT THE NET
 
@@ -72,6 +78,6 @@ In the fifty years of playing, teaching, and coaching tennis
 
 Many people subsequent to being unsuccessful in a tennis match lament they beat themselves and their opponent did not beat them.
 
-In reality, however, our responsibility is, to the best of our ability, continually strive to successfully beat the: 1) ball, 2) net, and 3) lines.
+In reality, however, our first responsibility is, to the best of our ability, continually strive to successfully beat the: 1) ball, 2) net, and 3) lines.
 
 Only then do we need to worry regarding the individual we are opposing.
