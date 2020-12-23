@@ -53,8 +53,6 @@ The techniques to attempt to master in watching the ball include:
 
 ## OPPONENT TWO: BEAT THE NET
 
-Beat the barrier.
-
 The second opponent to overcome is the net.
 
 A commonly held principle is 70% of points in tennis are scored by one player committing an error.
@@ -63,9 +61,11 @@ Of those errors 70% result by one of the competitors hitting the ball into the n
 
 Reason then suggests if we can continually improve our ability to hit all of our shots over the net more regularly we will grow as players.
 
-Three key components of beating the net include:
+Important techniques to beat the net include:
 
 * Realize the dimensions of a tennis net are 3 feet high in the center and three feet six inches high at the sideline.
+* Many people believe hitting their shot very close to the top of the net is important. However, this is a principle reason why so many mistakes are made into the net.
+*  
 * Backswing below the ball
 * Clear the net  by three to five feet
 
