@@ -5,6 +5,12 @@ img_path: images/img_0389.jpeg
 layout: page
 
 ---
+I can't and don't want to remember a time I didn't play sports.
+
+The pure joy of movement in running, throwing, tracking, catching, and hitting. 
+
+The intellectual and psychological challenges of playing the game to best of your ability.
+
 My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
 
 Fortunately the book he brought home was by Rod Laver who was to win all four Grand Slam majors in the 1969 calendar year for the second time.
