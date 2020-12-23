@@ -64,7 +64,7 @@ Reason then suggests if we can continually improve our ability to hit all of our
 Important techniques to beat the net include:
 
 * Realize the dimensions of a tennis net are 3 feet high in the center and three feet six inches high at the sideline.
-* Many people believe hitting their shot very close to the top of the net is important. However, this is a principle reason why so many mistakes are made into the net.
+* A common perception is hitting your shot very close to the top of the net is important. However, this is a principle reason why so many mistakes are made into the net.
 *  
 * Backswing below the ball
 * Clear the net  by three to five feet
