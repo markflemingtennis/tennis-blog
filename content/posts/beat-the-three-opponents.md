@@ -1,5 +1,5 @@
 ---
-title: To Improve Your Tennis Learn Beat Three Primary Opponents
+title: Improve Your Tennis By Learning To Beat Three Primary Opponents
 subtitle: "\n"
 date: 2020-12-17T00:00:00-06:00
 thumb_img_path: images/clara-tauson.jpeg
@@ -53,6 +53,8 @@ The techniques to attempt to master in watching the ball include:
 
 ## OPPONENT TWO: BEAT THE NET
 
+Beat the barrier.
+
 The second opponent to overcome is the net.
 
 A commonly held principle is 70% of points in tennis are scored by one player committing an error.
@@ -63,6 +65,7 @@ Reason then suggests if we can continually improve our ability to hit all of our
 
 Three key components of beating the net include:
 
+* Realize the dimensions of a tennis net are 3 feet high in the center and three feet six inches high at the sideline.
 * Backswing below the ball
 * Clear the net  by three to five feet
 
@@ -70,6 +73,7 @@ Three key components of beating the net include:
 
 In the fifty years of playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but don't seem to be able to control the ball by frequently hitting the ball either long or wide of the court. 
 
+* Hit for areas not lines
 * Beginner low smooth follow through
 * Advanced Player Topspin
 * Focal Point give yourself a margin of error 
