@@ -42,7 +42,7 @@ Three key components to improve in hitting the ball include:
 
 ### 3. Watch The Ball
 
-* To control your ensuing shot the ultimate goal is to make an effort to watch the ball in a manner to allow you to hit the ball in the center of the racket it's "sweet spot".  
+* To control your ensuing shot the ultimate goal is to make an effort to watch the ball in a manner to allow you to hit the ball in the center of the racket, it's "sweet spot".  
 * Like a golfer
 
 ## OPPONENT TWO: BEAT THE NET
