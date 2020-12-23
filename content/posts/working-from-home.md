@@ -1,16 +1,16 @@
 ---
-title: 'Coach Mark Tip: In Doubles Communicate Like A Football Quarterback'
+title: 'Quick Tip: In Doubles Communicate Like A Football Quarterback '
 date: 2019-03-30
 thumb_img_path: images/pexels-pixabay-209977-1-1.jpg
 content_img_path: images/pexels-pixabay-209977-1-1.jpg
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. '
+excerpt: 'Coach Mark Tip: This week'
 layout: post
 
 ---
 
-Doubles: communicate like quarterback Aaron Rodgers.
+In current doubles players most frequently find themselves in one up and one back situations.
+
+When doubles teams are in a one up one back formation, and the opponents lob over the net player's head what are the players responsibilities?
 
 In football quarterback such as Aaron Rodgers are responsible for reading defensive sets in communicating through audible's adjustments which are necessitated by his teammates.
 
