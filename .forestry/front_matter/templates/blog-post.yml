@@ -26,3 +26,5 @@ fields:
 - type: textarea
   name: excerpt
   label: excerpt
+pages:
+- content/posts/five-strategies-for-winning-from-the-baseline.md
