@@ -9,11 +9,13 @@ I can't and don't want to remember a time I didn't play sports.
 
 The pure joy of movement in running, throwing, tracking, catching, kicking, and hitting. 
 
-The intellectual and psychological challenges of playing the game to best of your ability.
+The intellectual and psychological challenges of playing a game to best of your ability.
 
 The elementary school of my little town had a heavily utilized playground where we played a variety of sports.
 
 For me, fortunately, the playground had one blacktop tennis court with a single basketball court adjacent to it.
+
+My first vague memory of playing tennis was when a friend and I took a few backyard  badminton to the tennis court, found a couple of old balls lost in the brush behind the fences, and rallied the balls back and forth over the net until the badminton rackets not designed for striking a heavier tennis ball broke.  
 
  
 
