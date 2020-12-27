@@ -5,6 +5,7 @@ img_path: images/img_0389.jpeg
 layout: page
 
 ---
+### Discovering Tennis
 
 My first vague memory of playing tennis was when a friend and I took a few backyard  badminton rackets to the tennis court, found a couple of old balls lost in the brush behind the fences, and rallied the balls back and forth over the net until the badminton rackets not designed for striking a heavier tennis ball broke.  An inauspicious beginning.
 
