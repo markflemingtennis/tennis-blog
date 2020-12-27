@@ -9,7 +9,7 @@ thumb_img_path = ""
 title = "Quick Tip: Improve Your Net Play With The Triple Threat Position "
 
 +++
-In Basketball a player is taught that subsequently to catching the ball they should be in the "triple threat" position.
+Basketball players are taught that subsequently to catching the ball they should be in the "triple threat" position.
 
 Incorporate (above)moving to catch the ball. 
 
