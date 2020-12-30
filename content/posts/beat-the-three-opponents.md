@@ -26,7 +26,7 @@ Our first opponent to overcome is hitting the ball.
 
 Three key components to improve in hitting the ball include:
 
-### 1. Prepare to Hit The Ball
+### 1. Prepare To Hit The Ball
 
 * Physically prepare by getting in the ready position with the weight of your body on the balls of your feet ready to move.
 * Mentally prepare by not just being physically ready, but just as or more importantly watching the ball leave your opponent’s racket after they have made contact to start your response.
@@ -42,7 +42,7 @@ Three key components to improve in hitting the ball include:
 
 ### 3. Watch The Ball
 
-To control your ensuing shot the ultimate goal is to make an effort to watch the ball in a manner to allow you to hit the ball in the center of the racket, it's "sweet spot".  
+To control your ensuing shot the ultimate goal is to make an effort to watch the ball in a manner to allow you to hit the ball in the center of the racket, it's "sweet spot".
 
 The techniques to attempt to master in watching the ball include:
 
@@ -65,18 +65,18 @@ Important techniques to beat the net include:
 
 * Realize the dimensions of a tennis net are 3 feet high in the center and three feet six inches high at the sideline.
 * A common perception is hitting your shot very close to the top of the net is important. However, this is a principle reason why so many mistakes are made into the net.
-*  
+* 
 * Backswing below the ball
 * Clear the net  by three to five feet
 
 ## OPPONENT THREE: BEAT THE LINES
 
-In the fifty years of playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but don't seem to be able to control the ball by frequently hitting the ball either long or wide of the court. 
+In the fifty years of playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but don't seem to be able to control the ball by frequently hitting the ball either long or wide of the court.
 
 * Hit for areas not lines
 * Beginner low smooth follow through
 * Advanced Player Topspin
-* Focal Point give yourself a margin of error 
+* Focal Point give yourself a margin of error
 
 ## CONCLUSION
 
