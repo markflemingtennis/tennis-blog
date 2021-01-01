@@ -9,10 +9,12 @@ thumb_img_path = ""
 title = "Profiles In Greatness: John Newcombe"
 
 +++
-John Newcombe was a 27 time Grand Slam champion in singles, doubles and Mixed doubles.
+John Newcombe was a 27 time Grand Slam champion in singles, doubles, and mixed doubles.
 
 What made him great?
 
 What can we learn from him?
+
+## CARREER STATISTICS
 
 Nickname: Newk
