@@ -3,7 +3,7 @@ content_img_path = ""
 date = ""
 description = ""
 draft = true
-excerpt = ""
+excerpt = "Players frequently find themselves being passed or lobbed over when they approach the net in singles.\n\nWhen a player comes to the net in what manner do they need to physically and mentally prepare to make the best response to the opposing player's shots.\n\nTo assist players in visualizing their responsibilities in this situation it is helpful to refer to the game of basketball."
 layout = ""
 thumb_img_path = ""
 title = "Quick Tip: Improve Your Net Play With The \"Triple Threat Position\" "
@@ -12,11 +12,9 @@ title = "Quick Tip: Improve Your Net Play With The \"Triple Threat Position\" "
 
 Players frequently find themselves being passed or lobbed over when they approach the net in singles.
 
-When doubles teams are playing in this formation, and the opponents lob over the net person's head, what are the players' resulting responsibilities?
+When a player comes to the net in what manner do they need to physically and mentally prepare to make the best response to the opposing player's shots.
 
 To assist players in visualizing their responsibilities in this situation it is helpful to refer to the game of basketball.
-
-Rewrite for tennis 
 
 ## THE BASKETBALL "TRIPLE THREAT POSITION"
 
