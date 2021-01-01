@@ -10,7 +10,7 @@ title = "Quick Tip: Improve Your Net Play With The \"Triple Threat Position\" "
 
 +++
 
-When players most frequently find themselves in one up and one back situations.
+Players frequently find themselves being passed or lobbed over when they approach the net in singles.
 
 When doubles teams are playing in this formation, and the opponents lob over the net person's head, what are the players' resulting responsibilities?
 
@@ -30,7 +30,7 @@ The basketball ready position or "triple threat" position the ball is held in fr
 
 In singles in tennis after hitting a high percentage approach shot down-the-line the player arrives at an advantageous position on the court to allow themselves to respond to the passing shot from their opponent.
 
-The net ready position in tennis has the player holding the racket in front of them and after quickly assessing their opponent's passing they respond by covering; 1) the line,        2) the middle, or 3) the overhead.
+The net ready position in tennis has the player holding the racket in front of them and after quickly assessing their opponent's passing they respond by covering; 1) the line, 2) the middle, or 3) the overhead.
 
 ## CONCLUSION
 
