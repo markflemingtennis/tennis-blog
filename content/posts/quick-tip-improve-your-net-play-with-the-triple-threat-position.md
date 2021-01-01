@@ -9,9 +9,9 @@ thumb_img_path = ""
 title = "Quick Tip: Improve Your Net Play With The Triple Threat Position "
 
 +++
-Basketball players are taught that subsequently to catching the ball they should be in the "triple threat" position.
+Basketball players are taught to move to an advantageous open position to allow them to receive a pass from a teammate.
 
-Incorporate (above)moving to catch the ball.
+Subsequent to catching the ball they should be in the "triple threat" position.
 
 In this basketball ready position the ball is held in front of them and after quickly assessing the defense in front of them and the location of their teammates on the floor they decide to react by 1) shooting the ball, 2) passing to a teammate, or 3) dribbling the ball.
 
