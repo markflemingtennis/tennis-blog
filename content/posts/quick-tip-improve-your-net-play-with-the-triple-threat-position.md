@@ -9,16 +9,22 @@ thumb_img_path = ""
 title = "Quick Tip: Improve Your Net Play With The Triple Threat Position "
 
 +++
-Basketball players are taught to move to an advantageous open position to allow them to receive a pass from a teammate.
+## THE BASKETBALL "TRIPLE THREAT" POSITION"
+
+Basketball players are taught to move to an advantageous open position on the court to allow them to receive a pass from a teammate.
 
 Subsequent to catching the ball they should be in the "triple threat" position.
 
-The basketball ready position the ball is held in front of them and after quickly assessing the defense in front of them and the location of their teammates on the floor they decide to react by 1) shooting the ball, 2) passing to a teammate, or 3) dribbling the ball.
+The basketball ready position or "triple threat" position the ball is held in front of them and after quickly assessing the defense in front of them and the location of their teammates on the floor they decide to react by 1) shooting the ball, 2) passing to a teammate, or 3) dribbling the ball.
 
-In singles in tennis after hitting the approach  
+## THE TENNIS "TRIPLE THREAT" POSITION"
 
-Cover The Line
+In singles in tennis after hitting a high percentage approach shot down-the-line the player arrives at an advantageous position on the court to allow themselves to respond to the passing shot from their opponent.
 
-Cover The Middle
+ The net ready position in tennis has the player holding the racket in front of them and after quickly assessing their opponent's passing they respond by covering; 1) the line,        2) the middle, or 3) the overhead.
 
-Cover The Overhead
+## CONCLUSION
+
+Emphasize the mental and physical ready positions
+
+Conclusion not just the physiacl ready posiyion but more importantly the mental ready position 
