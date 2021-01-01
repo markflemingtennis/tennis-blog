@@ -13,9 +13,9 @@ Basketball players are taught to move to an advantageous open position to allow 
 
 Subsequent to catching the ball they should be in the "triple threat" position.
 
-In this basketball ready position the ball is held in front of them and after quickly assessing the defense in front of them and the location of their teammates on the floor they decide to react by 1) shooting the ball, 2) passing to a teammate, or 3) dribbling the ball.
+The basketball ready position the ball is held in front of them and after quickly assessing the defense in front of them and the location of their teammates on the floor they decide to react by 1) shooting the ball, 2) passing to a teammate, or 3) dribbling the ball.
 
-In Tennis
+In singles in tennis after hitting the approach  
 
 Cover The Line
 
