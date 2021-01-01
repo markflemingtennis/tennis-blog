@@ -12,7 +12,7 @@ title = "Quick Tip: Improve Your Net Play With The \"Triple Threat Position\" "
 
 Players frequently find themselves being passed or lobbed over when they approach the net in singles.
 
-When a player comes to the net in what manner do they need to physically and mentally prepare to make the best response to the opposing player's shots.
+When a player comes to the net in what manner do they need to physically and mentally prepare to make the best response to the opposing player's shots?
 
 To assist players in visualizing their responsibilities in this situation it is helpful to refer to the game of basketball.
 
