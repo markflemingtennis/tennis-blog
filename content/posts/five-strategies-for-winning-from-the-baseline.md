@@ -11,9 +11,15 @@ title = "Five Strategies For Winning From The Baseline "
 +++
 A common perception among players I have worked with at all level is that pure raw power wins tennis matches.
 
-1 Hit the ball in the court.
+Power is a wonderful ability to have.
 
-2 Hit the ball to your opponent's weakness. (As you progress hit your forehand to their backhand).
+However, when are unable to control every shot we hit from the baseline what our some strategies or patterns we should utilize. 
+
+## Hit The Ball In The Court
+
+## Hit To The Opponent's Weakness 
+
+(As you progress hit your forehand to their backhand).
 
 3 Hit the ball crosscourt to maximize your margin for error and to move your opponent.
 
