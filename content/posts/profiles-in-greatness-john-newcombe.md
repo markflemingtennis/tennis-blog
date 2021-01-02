@@ -15,6 +15,8 @@ What made him great?
 
 What can we learn from him?
 
-## CARREER STATISTICS
+## FUN FACTS
 
 Nickname: Newk
+
+## CARREER STATISTICS
