@@ -3,13 +3,13 @@ content_img_path = ""
 date = ""
 description = ""
 draft = true
-excerpt = "A common perception among players I have worked with at all leveles is pure raw power wins tennis matches."
+excerpt = "A common perception among players I have worked with at all level is that pure raw power wins tennis matches."
 layout = ""
 thumb_img_path = ""
 title = "Five Strategies For Winning From The Baseline "
 
 +++
-A common perception among players I have worked with at all leveles is pure raw power wins tennis matches.
+A common perception among players I have worked with at all level is that pure raw power wins tennis matches.
 
 1 Hit the ball in the court.
 
