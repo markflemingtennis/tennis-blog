@@ -6,7 +6,7 @@ draft = true
 excerpt = "Students frequently ask me for clarification as to why different volley techniques have been taught to them by different professionals.\n\nThe response to these inquiries to be discussed have proved to both fun in drill situations and produced successful point play results in matches."
 layout = ""
 thumb_img_path = ""
-title = "Court Position, The Height, And Speed Of The Incoming Ball For Volley Type Selection"
+title = "Develop Seven Volleys For Dominant Netplay"
 
 +++
 Students frequently ask me for clarification as to why different volley techniques have been taught to them by different professionals.
