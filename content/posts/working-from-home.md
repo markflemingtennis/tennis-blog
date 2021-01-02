@@ -3,11 +3,12 @@ title: 'Quick Tip: In Doubles Communicate Like A Football Quarterback '
 date: 2019-03-30
 thumb_img_path: images/pexels-pixabay-209977-1-1.jpg
 content_img_path: images/pexels-pixabay-209977-1-1.jpg
-excerpt: "In current doubles, players most frequently find themselves in one up and
-  one back situations.\n\nWhen doubles teams are in a one up one back formation, and
-  the opponents lob over the net person's head, what are the players' resulting responsibilities?\n\nTo
-  assist players in visualizing their responsibilities in this situation it is helpful
-  to refer to the game of football. "
+excerpt: |-
+  In doubles players frequently find themselves in one up and one back situation.
+
+  When doubles teams are in this formation, and the opponents lob over the net person's head, what are the players' resulting responsibilities?
+
+  To assist players in visualizing their responsibilities in this situation it is helpful to refer to the game of football
 layout: post
 
 ---
