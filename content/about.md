@@ -1,7 +1,7 @@
 ---
 title: About Mark
 subtitle: ''
-img_path: images/img_0389.jpeg
+img_path: ''
 layout: page
 
 ---
@@ -16,6 +16,8 @@ Like many preteens and teenagers in the late 60s and early 70s I rode my bike to
 We played all sports including tennis, baseball, basketball, and touch football all which would later help me in my tennis game.
 
 My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
+
+![](images/img_0389.jpeg)
 
 ### Playing Career
 
