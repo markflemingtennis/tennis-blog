@@ -9,6 +9,12 @@ layout: page
 
 My first vague memory of playing tennis was when a friend and I took a few backyard  badminton rackets to the tennis court, found a couple of old balls lost in the brush behind the fences, and rallied the balls back and forth over the net until the badminton rackets not designed for striking a heavier tennis ball broke.  An inauspicious beginning.
 
+Fortunately my tennis progressed in a consistently rising fashion through the next few years.
+
+Like many preteens and teenagers in the late 60s and early 70s I rode my bike to the local elementary school playground which had a playing field, one tennis court, and one basketball court. During summer months it was common stayed from morning to dinner with a break for lunch.
+
+We played all sports including tennis, baseball, basketball, and touch football all which would later help me in my tennis game.
+
 My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
 
 ### Playing Career
