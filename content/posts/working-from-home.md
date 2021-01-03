@@ -1,8 +1,8 @@
 ---
 title: 'Quick Tip: In Doubles Communicate Like A Football Quarterback '
 date: 2019-03-30
-thumb_img_path: images/pexels-pixabay-209977-1-1.jpg
-content_img_path: images/pexels-pixabay-209977-1-1.jpg
+thumb_img_path: images/aaron_rodgers_-12-_sets_the_offense.jpg
+content_img_path: images/aaron_rodgers_-12-_sets_the_offense.jpg
 excerpt: |-
   In doubles players frequently find themselves in one up and one back situation.
 
