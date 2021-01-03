@@ -1,10 +1,10 @@
 +++
 content_img_path = ""
-date = ""
+date = 2021-01-04T06:00:00Z
 description = ""
 draft = true
 excerpt = ""
-layout = ""
+layout = "post"
 thumb_img_path = ""
 title = "Profiles In Greatness: Rod Laver"
 
