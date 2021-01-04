@@ -10,7 +10,7 @@ excerpt: |-
 
   To assist players in visualizing their responsibilities in this situation it is helpful to refer to the game of football
 layout: post
-tags = ["test"]
+tags: ["test"]
 
 ---
 In doubles players frequently find themselves in one up and one back situation.
