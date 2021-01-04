@@ -21,6 +21,7 @@ What can we learn from him?
 
 ## FUN FACTS
 
-Nickname: Rocket
+* Nickname: Rocket
+* Tennis Hall Of Fame Inductee: 
 
 ## CARREER STATISTICS
