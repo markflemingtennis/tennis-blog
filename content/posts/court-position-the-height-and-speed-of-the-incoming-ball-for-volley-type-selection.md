@@ -9,6 +9,9 @@ thumb_img_path = ""
 title = "Develop Seven Volleys For Dominant Netplay"
 
 +++
+
+(Note: may want to change this to the volley today is not dead but  due to racket technology that allow for a flick of the wrist passing shot need to be a better volleyer)
+
 Students frequently ask me for clarification as to why different volley techniques have been taught to them by different professionals.
 
 The response to these inquiries to be discussed have proved to both fun in drill situations and produced successful point play results in matches.
@@ -17,11 +20,11 @@ The 1) racket technique, 2) backswing, 3) applied spin, and 4) targets for six d
 
 ## Reflex Volley
 
-A) Court Position: 
+A) Technique:
 
-B) Target:
+B) Court Position:
 
-C) Backswing:
+C) Target:
 
 D) Backswing:
 
@@ -53,27 +56,27 @@ E) Spin: Underspin To “Skid” ball as low as possible
 
 ## Inside Out
 
-A) Court Position: Midcourt Forward
+A) Technique: 
 
-B) Target:
+B) Court Position: Midcourt Forward
 
-C) Backswing:
+C) Target:
 
-1. Drive Volley
+D) Backswing:
 
-A) Court Position: ¾ Court
-
-B) Target:
-
-C) Backswing:
+E) Spin:
 
 ## Drive Volley
 
-A) Court Position: ¾ Court
+A) Technique: 
 
-B) Target:
+B) Court Position: ¾ Court
 
-C) Backswing:
+C) Target:
+
+D) Backswing:
+
+E) Spin: Topspin
 
 ## Drop Volley
 
