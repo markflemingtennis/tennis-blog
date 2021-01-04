@@ -21,11 +21,19 @@ However, when we are unable to control every shot we hit from the baseline what 
 
 (As you progress hit your forehand to their backhand).
 
-3 Hit the ball crosscourt to maximize your margin for error and to move your opponent.
+## Hit The Ball Crosscourt 
 
-4 Use a strategy of keeping your shot out of the opponent's strike zone by using underspin to have the ball skid lower than their desired strike zone or by hitting a looping shot preferably with topspin to create a bounce which will be higher than your opponent's desired strike zone
+to maximize your margin for error and to move your opponent.
 
-5 Develop the ability to use the move the entire court by mixing higher deeper balls with shorter balls (drop shots that bring the opponent into the net).
+## Keep The Ball Out Of The Opponent's Strike Zone 
+
+Use underspin to have the ball skid lower than their desired strike zone.
+
+ Hit a looping shot preferably with topspin to create a bounce which will be higher than than their desired strike zone.
+
+## Move Your Opponent Using The Entire Court  
+
+court by mixing higher deeper balls with shorter balls (drop shots that bring the opponent into the net).
 
 Options here could include the following combinations:
 
