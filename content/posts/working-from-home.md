@@ -4,13 +4,13 @@ date: 2019-03-30
 thumb_img_path: images/aaron_rodgers_-12-_sets_the_offense.jpg
 content_img_path: images/aaron_rodgers_-12-_sets_the_offense.jpg
 excerpt: |-
-tags = ["test"]
   In doubles players frequently find themselves in one up and one back situation.
 
   When doubles teams are in this formation, and the opponents lob over the net person's head, what are the players' resulting responsibilities?
 
   To assist players in visualizing their responsibilities in this situation it is helpful to refer to the game of football
 layout: post
+tags = ["test"]
 
 ---
 In doubles players frequently find themselves in one up and one back situation.
