@@ -70,12 +70,12 @@ Important techniques to beat the net include:
 
 ## OPPONENT THREE: BEAT THE LINES
 
-In my fifty years playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but are unable to control the ball, frequently hitting the ball either long or wide of the court.
+In my fifty years playing, teaching, and coaching, tennis players often comment they have worked diligently on their strokes but are unable to control the ball, frequently hitting the ball either long or wide of the court.
 
 Consider the following points to more successfully keep your shots within the lines:
 
-* Establish a "margin of error" a focal point not hitting for the the lines themselves, but instead for designated areas within the court.
-* Focal Point Hit for areas not lines
+* Establish a "margin of error" with a focal point of not hitting for the the lines, but instead for designated areas within the court.
+* Divide the court into the four designated target areas.  
 * Beginner low smooth follow through
 * Advanced Player Topspin
 
