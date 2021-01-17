@@ -67,11 +67,13 @@ Important techniques to beat the net include:
 * A common perception is hitting your shot very close to the top of the net is important. However, this is a principle reason why so many mistakes are made into the net.
 * 
 * Backswing below the ball
-* Clear the net  by three to five feet
+* Clear the net by three to five feet
 
 ## OPPONENT THREE: BEAT THE LINES
 
-In the fifty years of playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but are unable to control the ball, frequently hitting the ball either long or wide of the court.
+In my fifty years playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but are unable to control the ball, frequently hitting the ball either long or wide of the court.
+
+Points to consider in successfully navigating the tennis lines include:
 
 * Focal Point give yourself a margin of error
 * Hit for areas not lines
