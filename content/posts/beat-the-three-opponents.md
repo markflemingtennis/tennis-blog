@@ -1,7 +1,7 @@
 ---
 title: Improve Your Tennis By Learning To Beat Three Primary Opponents
 subtitle: "\n"
-date: 2020-12-17T00:00:00-06:00
+date: 2020-12-17T00:00:00.000-06:00
 thumb_img_path: images/clara-tauson.jpeg
 content_img_path: images/clara-tauson.jpeg
 excerpt: "Each of us has opponents who consistently frustrate us on the tennis courts.
@@ -18,7 +18,7 @@ In reality, most of us will never have the opportunity to compete against the be
 
 However, whether you are playing against players at the Hall of Fame, advanced, intermediate, or novice levels there are mindsets and technical fundamentals which can assist you in achieving greater levels of success.
 
-From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus on from a technical standpoint overcoming three opponents to make ourselves better players.
+From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus technically overcoming three opponents to make ourselves better players.
 
 ## OPPONENT ONE: HIT THE BALL
 
