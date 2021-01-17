@@ -65,18 +65,17 @@ Important techniques to beat the net include:
 
 * Realize the dimensions of a tennis net are 3 feet high in the center and three feet six inches high at the sideline.
 * A common perception is hitting your shot very close to the top of the net is important. However, this is a principle reason why so many mistakes are made into the net.
-* 
-* Backswing below the ball
-* Clear the net by three to five feet
+* Give yourself a "margin of error" establishing a focal point of clearing  the net by three to five feet.
+* Backswing below the ball top edge of the racket below the ball
 
 ## OPPONENT THREE: BEAT THE LINES
 
 In my fifty years playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but are unable to control the ball, frequently hitting the ball either long or wide of the court.
 
-Points to consider in successfully navigating the tennis lines include:
+Consider the following points to more successfully navigate the tennis lines:
 
 * Focal Point give yourself a margin of error
-* Hit for areas not lines
+* Focal Point Hit for areas not lines
 * Beginner low smooth follow through
 * Advanced Player Topspin
 
