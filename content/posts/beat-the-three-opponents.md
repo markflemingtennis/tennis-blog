@@ -49,7 +49,7 @@ The techniques to attempt to master in watching the ball include:
 * Watch the ball leave your opponent's racket as described above.
 * Track the ball as it crosses the net and approaches you.
 * Keep your head down and make every attempt to see the ball contact the racket in the "sweet spot".
-* Avoid mishitting the ball by looking up too soon, by keeping your head down and watching the contact point for a split se0cond after contact, then looking up.
+* Avoid mishitting the ball by looking up too soon, by keeping your head down and watching the contact point for a split second after contact, then looking up.
 
 ## OPPONENT TWO: BEAT THE NET
 
@@ -66,7 +66,7 @@ Important techniques to beat the net include:
 * Realize the dimensions of a tennis net are 3 feet high in the center and three feet six inches high at the sideline.
 * A common perception is hitting your shot very close to the top of the net is important. However, this is a principle reason why so many mistakes are made into the net.
 * Give yourself a "margin of error" establishing a focal point of clearing  the net by three to five feet.
-* Importantly! Prior to ball contact the player should have a low backswing emphasizing the the top edge of the racket being below the ball.
+* Importantly! Prior to ball contact the player should have a low backswing emphasizing the top edge of the racket being below the ball.
 
 ## OPPONENT THREE: BEAT THE LINES
 
