@@ -9,7 +9,6 @@ thumb_img_path = ""
 title = "Quick Tip: Improve Your Net Play With The \"Triple Threat Position\" "
 
 +++
-
 Players frequently find themselves being passed or lobbed over when they approach the net in singles.
 
 When a player comes to the net in what manner do they need to physically and mentally prepare to make the best response to the opposing player's shots?
@@ -28,10 +27,10 @@ The basketball ready position or "triple threat" position the ball is held in fr
 
 In singles in tennis after hitting a high percentage approach shot down-the-line the player arrives at an advantageous position on the court to allow themselves to respond to the passing shot from their opponent.
 
-The net ready position in tennis has the player holding the racket in front of them and after quickly assessing their opponent's passing they respond by covering; 1) the line, 2) the middle, or 3) the overhead.
+The net ready position in tennis has the player holding the racket in front of them and after quickly assessing their opponent's passing shot they respond by covering; 1) the line, 2) the middle, or 3) the overhead.
 
 ## CONCLUSION
 
 Emphasize the mental and physical ready positions
 
-Conclusion not just the physiacl ready posiyion but more importantly the mental ready position
+Conclusion not just the physical ready position but more importantly the mental ready position
