@@ -17,21 +17,23 @@ However, when we are unable to control every shot we hit from the baseline what 
 
 ## Hit The Ball In The Court
 
+* An initial strategy to gain tennis competency is to consistently make as many shots in-a-row as you capable of making.  
+
 ## Hit To The Opponent's Weakness
 
 (As you progress hit your forehand to their backhand).
 
-## Hit The Ball Crosscourt 
+## Hit The Ball Crosscourt
 
 to maximize your margin for error and to move your opponent.
 
-## Keep The Ball Out Of The Opponent's Strike Zone 
+## Keep The Ball Out Of The Opponent's Strike Zone
 
 Use underspin to have the ball skid lower than their desired strike zone.
 
- Hit a looping shot preferably with topspin to create a bounce which will be higher than than their desired strike zone.
+Hit a looping shot preferably with topspin to create a bounce which will be higher than than their desired strike zone.
 
-## Move Your Opponent Using The Entire Court  
+## Move Your Opponent Using The Entire Court
 
 court by mixing higher deeper balls with shorter balls (drop shots that bring the opponent into the net).
 
