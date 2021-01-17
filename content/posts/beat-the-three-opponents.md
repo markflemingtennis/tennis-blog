@@ -75,7 +75,7 @@ In my fifty years playing, teaching, and coaching, tennis players often comment 
 Consider the following points to more successfully keep your shots within the lines:
 
 * Establish a "margin of error" with a focal point of not hitting for the the lines, but instead aiming for designated "big target" areas within the court.
-* Four designated "big target" areas include 1) the deuce court service box, 2) the add court service box, 3) between the service line and baseline to the deuce court, and 4) between the service line and baseline to the add court.
+* Four designated "big target" areas include 1) the deuce service box, 2) the add service box, 3) between the service line and baseline to the opponent's forehand, and 4) between the service line and baseline to the opponent's backhand.
 * Beginner low smooth follow through
 * Advanced Player Topspin
 
