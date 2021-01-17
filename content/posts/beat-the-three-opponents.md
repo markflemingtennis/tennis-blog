@@ -59,7 +59,7 @@ A commonly held principle is 70% of points in tennis are scored by one player co
 
 Of those errors 70% result by one of the competitors hitting the ball into the net.
 
-Reason then suggests if we can continually improve our ability to hit all of our shots over the net more regularly we will grow as players.
+Reason then suggests if we can continually improve our in hitting our shots over the net more regularly we will grow as players.
 
 Important techniques to beat the net include:
 
