@@ -72,7 +72,7 @@ Important techniques to beat the net include:
 
 In my fifty years playing, teaching, and coaching tennis players often comment they have worked diligently on their strokes but are unable to control the ball, frequently hitting the ball either long or wide of the court.
 
-Consider the following points to more successfully navigate the tennis lines:
+Consider the following points to more successfully keep your shots within the lines:
 
 * Focal Point give yourself a margin of error
 * Focal Point Hit for areas not lines
