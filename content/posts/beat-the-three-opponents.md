@@ -74,7 +74,7 @@ In my fifty years playing, teaching, and coaching tennis players often comment t
 
 Consider the following points to more successfully keep your shots within the lines:
 
-* Focal Point give yourself a margin of error
+* Establish a "margin of error" a focal point not hitting for the the lines themselves, but instead for designated areas within the court.
 * Focal Point Hit for areas not lines
 * Beginner low smooth follow through
 * Advanced Player Topspin
