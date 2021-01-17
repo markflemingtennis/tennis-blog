@@ -4,7 +4,7 @@ subtitle: "\n"
 date: 2020-12-17T00:00:00.000-06:00
 thumb_img_path: images/clara-tauson.jpeg
 content_img_path: images/clara-tauson.jpeg
-excerpt: "Each of us has opponents who consistently frustrate us on the tennis courts.
+excerpt: "Each of us has opponents who consistently frustrate us on the tennis court.
   \                                                                                                                                            \n\nFrom
   a psychological standpoint we should strive to eliminate our focus on the personality
   of the individual on the other side of the court, and instead focus technically
@@ -12,7 +12,7 @@ excerpt: "Each of us has opponents who consistently frustrate us on the tennis c
 layout: post
 
 ---
-Each of us has opponents who consistently frustrate us on the tennis courts.
+Each of us has opponents who consistently frustrate us on the tennis court.
 
 In reality, most of us will never have the opportunity to compete against the best of the best such as Roger, Rafa, Novak, Serena, Vicka, or Naomi.
 
