@@ -7,8 +7,8 @@ content_img_path: images/clara-tauson.jpeg
 excerpt: "Each of us has opponents who consistently frustrate us on the tennis courts.
   \                                                                                                                                            \n\nFrom
   a psychological standpoint we should strive to eliminate our focus on the personality
-  of the individual on the other side of the court, and instead focus on overcoming
-  three opponents to make ourselves better players."
+  of the individual on the other side of the court, and instead focus technically
+  on overcoming three opponents to make ourselves better players."
 layout: post
 
 ---
