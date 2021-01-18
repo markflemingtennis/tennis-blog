@@ -12,17 +12,17 @@ excerpt: "Each of us has opponents who consistently frustrate us on the tennis c
 layout: post
 
 ---
-Each of us has opponents who consistently frustrate us on the tennis court.
+Tennis players frequently have opponents who consistently frustrate them on the tennis court.
 
-In reality, most of us will never have the opportunity to compete against the best of the best such as Roger, Rafa, Novak, Serena, Vicka, or Naomi.
+In reality, most individuals will never have the opportunity to compete against the best of the best such as Roger, Rafa, Novak, Serena, Vicka, or Naomi.
 
 However, whether you are playing against players at the Hall of Fame, advanced, intermediate, or novice levels there are mindsets and technical fundamentals which can assist you in achieving greater levels of success.
 
-From a psychological standpoint we should strive to eliminate our focus on the personality of the individual on the other side of the court, and instead focus technically on overcoming three opponents to make ourselves better players.
+From a psychological standpoint you should strive to eliminate your focus on the personality of the individual on the other side of the court, and instead focus technically on overcoming three opponents to make you a better player.
 
 ## OPPONENT ONE: HIT THE BALL
 
-Our first opponent to overcome is hitting the ball.
+The first opponent to overcome is hitting the ball.
 
 Three key components to improve in hitting the ball include:
 
@@ -59,7 +59,7 @@ A commonly held principle is 70% of points in tennis are scored by one player co
 
 Of those errors 70% result by one of the competitors hitting the ball into the net.
 
-Reason then suggests if we can continually improve our in hitting our shots over the net more regularly we will grow as players.
+Reason then suggests if you can continually improve in hitting your shots over the net more regularly you will grow as a player.
 
 Important techniques to beat the net include:
 
@@ -70,7 +70,7 @@ Important techniques to beat the net include:
 
 ## OPPONENT THREE: BEAT THE LINES
 
-In my fifty years playing, teaching, and coaching, tennis players often comment they have worked diligently on their strokes but are unable to control the ball, frequently hitting the ball either long or wide of the court.
+In my fifty years of tennis, players often comment they have worked diligently on their strokes but are unable to control the ball, frequently hitting the ball either long or wide of the court.
 
 Consider the following points to more successfully keep your shots within the lines:
 
