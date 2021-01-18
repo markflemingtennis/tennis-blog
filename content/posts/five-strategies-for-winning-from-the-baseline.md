@@ -21,9 +21,9 @@ However, when we are playing at the baseline and are either 1) unable to control
 
 ## Hit To The Opponent's Weakness
 
-* As a player progresses or is facing an opponent with the ability to keep as many shots in play as they can additional tactics should be employed.
-*  Such a second strategy is to assess and direct their shots toward the opponent's stroke weakness.
-* At earlier stages of competitive play attemt attack the backhand
+* As a player progresses or is facing an opponent with the ability to keep as many shots in play as they can, additional tactics should be employed.
+*  Such a second strategy is to assess and direct shots toward the opponent's stroke weakness.
+* Directing the shot to the other player's backhand is the first stroke to attempt to attack with this being the weakness among a majority of players.
 
 ## Hit The Ball Crosscourt
 
