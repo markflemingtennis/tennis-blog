@@ -13,7 +13,7 @@ Mental Training Program
 
 The program will stress a systematic program in five areas of Applied Tennis-Specific Mental Training which will include those items listed below:
 
-## POSITIVE ENERGY/ POSITIVE ATTITUDE
+## POSITIVE ATTITUDE/POSITIVE ENERGY 
 
 1\. Attitude
 
