@@ -22,7 +22,8 @@ However, when we are playing at the baseline and are either 1) unable to control
 
 ## Hit To The Opponent's Weakness
 
-(As you progress hit your forehand to their backhand).
+* As we progress or are facing and opponent with the ability to keep as many shots in play as we can, a second strategy is to assess the opponent's weakness and direct our shots there.
+* (As you progress hit your forehand to their backhand).
 
 ## Hit The Ball Crosscourt
 
