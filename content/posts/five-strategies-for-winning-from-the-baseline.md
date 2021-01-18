@@ -17,7 +17,7 @@ However, when we are playing at the baseline and are either 1) unable to control
 ## Hit The Ball In The Court
 
 * An initial strategy in gaining tennis competency is to consistently stroke as many shots in-a-row as you are capable of.
-* Making more overall shots than your opponent will result in success for you in a point, a set, and a match.
+* Making more overall shots than your opponent will result in success for you in points, sets, and matches.
 
 ## Hit To The Opponent's Weakness
 
