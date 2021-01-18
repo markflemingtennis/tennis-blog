@@ -1,11 +1,13 @@
 +++
-content_img_path = ""
+content_img_path = "images/triple-threat-jason-kidd.jpg"
+content_img_path1 = ""
 date = 2021-01-03T06:00:00Z
 description = ""
 draft = true
 excerpt = "Players frequently find themselves being passed or lobbed over when they approach the net in singles.\n\nWhen a player comes to the net in what manner do they need to physically and mentally prepare to make the best response to the opposing player's shots.\n\nTo assist players in visualizing their responsibilities in this situation it is helpful to refer to the game of basketball."
 layout = "post"
-thumb_img_path = "static/images/blake-griffin-triple-threat-position.jpg"
+thumb_img_path = "images/triple-threat-jason-kidd.jpg"
+thumb_img_path1 = ""
 title = "Quick Tip: Improve Your Net Play With The \"Triple Threat Position\" "
 
 +++
