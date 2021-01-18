@@ -76,7 +76,8 @@ Consider the following points to more successfully keep your shots within the li
 
 * Establish a "margin of error" with a focal point of not hitting for the the lines, but instead aiming for designated "big target" areas within the court.
 * Four designated "big target" areas include 1) the deuce service box, 2) the add service box, 3) between the service line and baseline to the opponent's forehand, and 4) between the service line and baseline to the opponent's backhand.
-* Beginner low smooth follow through
+* Shot direction at all levels is accomplished with an outward follow through toward the target.  
+* Players hitting predominantly flat stokes control the shot 
 * Advanced Player Topspin
 
 ## CONCLUSION
