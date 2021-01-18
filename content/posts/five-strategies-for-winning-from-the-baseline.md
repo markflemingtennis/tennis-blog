@@ -33,7 +33,7 @@ However, when we are playing at the baseline and are either 1) unable to control
 
 ## Keep The Ball Out Of The Opponent's Strike Zone
 
-* Most players generally have their preferred power zone or strike zone between chest and knee level.
+* Most players generally have their preferred power zone or "strike zone" between chest and knee level.
 *  In situations where your opponent is outmaneuvering or overpowering you from the baseline a smart tactic is to not let them contact the ball in their preferred strike zone.
 
 Use underspin to have the ball skid lower than their desired strike zone.
