@@ -37,7 +37,6 @@ fields:
   name: content_img_path1
   label: content_img_path1
 pages:
-- content/posts/book-review-levels-of-the-game.md
 - content/posts/court-position-the-height-and-speed-of-the-incoming-ball-for-volley-type-selection.md
 - content/posts/five-strategies-for-winning-from-the-baseline.md
 - content/posts/profiles-in-greatness-john-newcombe.md
