@@ -21,7 +21,8 @@ However, when we are playing at the baseline and are either 1) unable to control
 
 ## Hit To The Opponent's Weakness
 
-* As a player progresses or is facing an opponent with the ability to keep as many shots in play as they can, a second strategy is to assess the opponent's weakness and direct their shots there.
+* As a player progresses or is facing an opponent with the ability to keep as many shots in play as they can additional tactics must be employed.
+*  Such a second strategy is to assess and direct their shots toward the opponent's weakness.
 * (As you progress hit your forehand to their backhand).
 
 ## Hit The Ball Crosscourt
