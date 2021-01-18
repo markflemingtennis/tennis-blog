@@ -6,7 +6,7 @@ draft = true
 excerpt = ""
 layout = "post"
 thumb_img_path = ""
-title = "Mentally Strong Tennis: Positive Attitude/Positive Energy"
+title = "Mental Strength: Develop A Positive Attitude and Positive Energy To Enhance Your Tennis Game"
 
 +++
 
