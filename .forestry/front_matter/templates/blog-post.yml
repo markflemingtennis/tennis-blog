@@ -12,20 +12,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: thumb_img_path1
-  label: thumb_img_path1
-- type: file
-  name: content_img_path1
-  label: content_img_path1
-- name: description
-  type: text
-  config:
-    required: false
-  label: description
-- type: textarea
-  name: excerpt
-  label: excerpt
 - name: content_img_path
   type: text
   config:
@@ -36,6 +22,20 @@ fields:
   config:
     required: false
   label: thumb_img_path
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: file
+  name: thumb_img_path1
+  label: thumb_img_path1
+- type: file
+  name: content_img_path1
+  label: content_img_path1
 pages:
 - content/posts/book-review-levels-of-the-game.md
 - content/posts/court-position-the-height-and-speed-of-the-incoming-ball-for-volley-type-selection.md
