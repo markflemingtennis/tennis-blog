@@ -2,7 +2,7 @@
 content_img_path = ""
 date = 2021-01-15T06:00:00Z
 description = ""
-excerpt = "A common perception among players at all levels is pure raw power wins tennis matches.\n\nPower is a wonderful ability to have.\n\nHowever, when we are playing at the baseline and are either 1) unable to control our power, or 2) the opponent is not effected by our power, what are some strategies or patterns we should utilize?"
+excerpt = "A common perception among players at all levels is pure raw power wins tennis matches.\n\nPower is a wonderful ability to have.\n\nHowever, when we are playing at the baseline and are either 1) unable to control our power, or 2) the opponent is not effected by our power, what are some strategies or patterns we can utilize?"
 layout = "post"
 thumb_img_path = ""
 title = "Five Strategies For Winning From The Baseline "
@@ -12,7 +12,7 @@ A common perception among players at all levels is pure raw power wins tennis ma
 
 Power is a wonderful ability to have.
 
-However, when we are playing at the baseline and are either 1) unable to control our power, or 2) the opponent is not effected by our power, what are some strategies or patterns we should utilize?
+However, when we are playing at the baseline and are either 1) unable to control our power, or 2) the opponent is not effected by our power, what are some strategies or patterns we can utilize?
 
 ## Hit The Ball In The Court
 
