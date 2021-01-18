@@ -6,7 +6,7 @@ draft = true
 excerpt = ""
 layout = "post"
 thumb_img_path = ""
-title = "Sport Psychology"
+title = "Helpful Psychological Tips For Improving Your Tennis Game"
 
 +++
 Mental Training Program
