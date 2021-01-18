@@ -13,11 +13,11 @@ A common perception among players at all levels is that pure raw power wins tenn
 
 Power is a wonderful ability to have.
 
-However, when we are playing at the baseline and are either 1) unable to control our power, or 2) or the opponent is not effected by our power, what are some strategies or patterns we should utilize?
+However, when we are playing at the baseline and are either 1) unable to control our power, or 2) the opponent is not effected by our power, what are some strategies or patterns we should utilize?
 
 ## Hit The Ball In The Court
 
-* An initial strategy in gaining tennis competency is to consistently stroke as many shots in-a-row as you capable of making.  
+* An initial strategy in gaining tennis competency is to consistently stroke as many shots in-a-row as you capable of making.
 * The result of making more overall shots than your opponent will result in success for you within a point, a set, and a match.
 
 ## Hit To The Opponent's Weakness
