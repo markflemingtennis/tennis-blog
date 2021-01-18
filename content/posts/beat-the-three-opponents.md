@@ -77,7 +77,7 @@ Consider the following points to more successfully keep your shots within the li
 * Four designated "big target" areas include 1) the deuce service box, 2) the add service box, 3) between the service line and baseline to the opponent's forehand, and 4) between the service line and baseline to the opponent's backhand.
 * Shot placement at all levels is accomplished with an outwardly directed follow through toward the target.
 * Players hitting predominantly flat stokes control the shot with a long fluid follow through for depth, and a more compact follow through when hitting to the shorter areas of the court.
-* Developing and controlling topspin will allow players to utilize forward ball rotation to literally drop the ball down into the court. Hitting to the deep areas with topspin is achieved by aiming higher over the net and hitting to the shorter areas of the court is attained by a more rapidly brushing up on the follow through.
+* Developing and controlling topspin will allow players to utilize forward ball rotation to drop the ball down into the court. Hitting to the deep areas with topspin is achieved by aiming higher over the net and hitting to the shorter areas of the court is attained by a more rapidly brushing up on the follow through.
 
 ## CONCLUSION
 
