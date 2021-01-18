@@ -22,12 +22,14 @@ However, when we are playing at the baseline and are either 1) unable to control
 ## Hit To The Opponent's Weakness
 
 * As a player progresses or is facing an opponent with the ability to keep as many shots in play as they can, additional tactics should be employed.
-*  Such a second strategy is to assess and direct shots toward the opponent's stroke weakness.
+* Such a second strategy is to assess and direct shots toward the opponent's stroke weakness.
 * Directing the shot to the other player's backhand is the first stroke to attempt to attack with this being the weakness among a majority of players.
 
 ## Hit The Ball Crosscourt
 
-to maximize your margin for error and to move your opponent.
+* As individuals progress up the tennis ladder and find themselves competing against players with both sound forehands and backhands further patterns become necessary.
+* Understanding tennis court geometry can be a great advantage in taking charge of point play.  Measurements of the court are: 1) straight ahead from baseline to baseline is 78 feet, 2) diagonally from your corner to the opposing corner is 82.5 feet.
+* Hitting the ball crosscourt allows you to gain two tactical advantages by: 1) maximizing your "margin of error" to the longer 85.5 foot court and 2) moving your opponent.    
 
 ## Keep The Ball Out Of The Opponent's Strike Zone
 
