@@ -28,7 +28,7 @@ However, when we are playing at the baseline and are either 1) unable to control
 ## Hit The Ball Crosscourt
 
 * As individuals progress up the tennis ladder and find themselves competing against players with both sound forehands and backhands further patterns become necessary.
-* Understanding tennis court geometry can be a great advantage in taking charge of point play.  Measurements of the court are: 1) straight ahead from baseline to baseline is 78 feet, 2) diagonally from your corner to the opposing corner is 82.5 feet.
+* Understanding tennis court geometry can be a great advantage in taking charge of point play.  Measurements of the court are: 1) straight ahead from baseline to baseline is 78 feet, and 2) diagonally from your corner to the opposing corner is 82.5 feet.
 * Hitting the ball crosscourt allows you to gain two tactical advantages by: 1) maximizing your "margin of error" to the longer 82.5 foot court and 2) moving your opponent.    
 
 ## Keep The Ball Out Of The Opponent's Strike Zone
