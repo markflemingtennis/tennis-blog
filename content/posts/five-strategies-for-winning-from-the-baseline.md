@@ -2,7 +2,6 @@
 content_img_path = ""
 date = 2021-01-15T06:00:00Z
 description = ""
-draft = true
 excerpt = "A common perception among players at all levels is that pure raw power wins tennis matches.\n\nPower is a wonderful ability to have.\n\nHowever, when we are playing at the baseline and are either 1) unable to control our power, or 2) the opponent is not effected by our power, what are some strategies or patterns we should utilize?"
 layout = "post"
 thumb_img_path = ""
