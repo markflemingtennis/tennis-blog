@@ -1,11 +1,13 @@
 +++
 content_img_path = ""
-date = 2021-01-04T06:00:00Z
+content_img_path1 = ""
+date = 2021-01-18T22:23:07Z
 description = ""
 draft = true
 excerpt = ""
 layout = ""
 thumb_img_path = ""
-title = "Book Review: Levels Of The Game"
+thumb_img_path1 = ""
+title = ""
 
 +++
