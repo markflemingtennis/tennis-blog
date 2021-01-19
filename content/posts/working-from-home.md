@@ -32,8 +32,8 @@ Subsequent to a lob clearing the the net player's head the the person in the bac
 
 * Begin running to the ball while simultaneously communicating loud enough for their partner to hear "I got it".
 * In a situation where the lob is to land in the backcourt in their partner's half of the court they should shout "I got it switch".
-* When both of the opponents are coming together at the you should yell "get back" to put your team in the best possible position to defend the court.
-* In a situation where your lob is short or you assess the two 2 opponents are both going to be at the net you should shout to "get back". This  both for the safety of the net player being hit by an overhead and getting your team in the best possible position to defend the next shot from the opponents. 
+* When both of the opponents are coming together at the net, you should yell "get back" to put your team in the best possible position to defend the court.
+* In a situation where your lob is short or you assess the two 2 opponents are both going to be at the net you should shout to "get back". This  both for the safety of the net player being hit by an overhead and getting your team in the best possible position to defend the next shot from the opponents.
 
 ## Conclusion
 
