@@ -1,16 +1,24 @@
 +++
 content_img_path = ""
+content_img_path1 = ""
 date = ""
 description = ""
 draft = true
 excerpt = ""
 layout = "post"
 thumb_img_path = ""
+thumb_img_path1 = ""
 title = "Mental Strength: Enhancing Your Tennis With A Positive Attitude and Positive Energy "
 
 +++
 
-## POSITIVE ATTITUDE/POSITIVE ENERGY 
+A commonly held principle among tennis participants is, being an individual sport the mental or psychological aspect of the game is of consummate importance.
+
+Players are frequently heard subsequent to an unsuccessful match stating “they didn’t beat me, I beat myself”.
+
+This five part series on areas of Tennis-Specific Mental Training has as its’ purpose to provide you with some tips which may help you improve your tennis from a psychological standpoint.
+
+## POSITIVE ATTITUDE/POSITIVE ENERGY
 
 1\. Attitude
 
