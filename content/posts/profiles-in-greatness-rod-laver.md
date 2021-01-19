@@ -15,7 +15,7 @@ In the tennis history there have only been three calendar year Grand Slams (winn
 
 Two of those three calendar year Grand Slams were recorded by Australia's Rod Laver in 1962 and 1969.
 
-Laver is the only male player to have achieved the calendar year Grand Slam since the advent of open tennis in 1968.
+Laver is the only male player to have achieved the calendar year Grand Slam since the advent of "Open Tennis" in 1968.
 
 What made him great?
 
