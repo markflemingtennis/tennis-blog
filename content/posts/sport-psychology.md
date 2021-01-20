@@ -22,16 +22,14 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 ## Positive Attitude
 
 * Attitude in tennis includes the thoughts, beliefs, emotions and/or feelings an individual  has about the game and their tennis ability.
-
-
 * Attitudes can ultimately reflect the way a player behaves in the competitive environment and their level of play in the game.
-
-
 * The player with the positive attitude has an affection toward tennis, believes in themselves, and has a willingness to demonstrate an effort to become the best player they are capable of becoming.
 
-## Fun
+## Enjoy The Tennis Experience
 
-Enjoying the Journey
+* The positive player embraces the challenge of tennis. 
+* Successful competitors enjoy the journey of developing the technical, physical, intellectual, and psychological aspects required by the game.
+* The positive player enjoys the competitive environment and the challenge of testing their skills against a capable opponent.   
 
 2\. Leadership (Don't tryout, standout" - anonymous)
 
