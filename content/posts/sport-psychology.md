@@ -31,6 +31,8 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 
 ## Fun
 
+Enjoying the Journey
+
 2\. Leadership (Don't tryout, standout" - anonymous)
 
 (- Don't go where the path leads, but where there is
