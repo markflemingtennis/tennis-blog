@@ -21,7 +21,7 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 
 ## Positive Attitude
 
-* Attitude in tennis is the manner an individual thinks, believes, or feels about the game and their tennis ability.
+* Attitude in tennis includes the thoughts, beliefs, emotions and/or feelings an individual  has about the game and their tennis ability.
 
 
 * Attitudes can ultimately reflect the way a player behaves in the competitive environment and their level of play in the game.
