@@ -31,9 +31,11 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 
 * The positive player embraces the challenge of tennis. 
 * Successful competitors enjoy the process of developing the technical, physical, intellectual, and psychological aspects required by the game.
-* The positive player enjoys the competitive match play environment with its' challenge of testing their technical, physical, intellectual, and psychological skills against capable opponents.   
+* The positive player enjoys the competitive match play environment with its' challenge of testing their aforementioned skills against capable opponents.   
 
   ## Avoid Negative Self-Talk
+  * Negative self-talk can be very detrimental to both your level of skill development and your match play success.
+  * 
 
   ## Positive Self-Talk
 
@@ -52,7 +54,5 @@ B. Match Preparation
 4\. Controlling Intensity
 
 5\. Racket Up (Staying "up" emotionally)
-
-6\. Positive Self-Talk
 
 A. Be Your own positive coach
