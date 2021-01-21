@@ -40,6 +40,8 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 
 ## Positive Self-Talk
 
+* Replace any negative thoughts instead with positive self-talk indicating your intention you will do the task. 
+
 2\. Leadership (Don't tryout, standout" - anonymous)
 
 (- Don't go where the path leads, but where there is
