@@ -56,3 +56,7 @@ B. Match Preparation
 5\. Racket Up (Staying "up" emotionally)
 
 A. Be Your own positive coach
+
+## Conclusion
+
+And above all remember today is a great day because you are playing tennis!
