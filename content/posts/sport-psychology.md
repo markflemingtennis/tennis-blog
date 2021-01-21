@@ -36,6 +36,7 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 ## Avoid Negative Self-Talk
 
 * Negative self-talk can be very detrimental to both your level of skill development and your match play success.
+* It is important to realize when a person states they can not do something it usually means they are not going to do it.
 
 ## Positive Self-Talk
 
