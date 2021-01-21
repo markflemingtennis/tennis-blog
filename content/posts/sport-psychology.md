@@ -37,10 +37,23 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 
 * Negative self-talk can be very detrimental to both your level of skill development and your match play success.
 * It is important to realize when a person states they can not do something it usually means they are not going to do it.
+* Examples of negative self could include:
 
-## Positive Self-Talk
+  1) I can't hit my serve in the court.
 
-* Replace any negative thoughts instead with positive self-talk indicating your intention you will do the task. 
+  2) I can't get the ball over the net.
+
+  2) I can't hit a backhand.
+
+## Develop Positive Self-Talk
+
+* Replace any negative thoughts instead with positive self-talk indicating your intention you will do the desired task. 
+
+  1) I will make my serve by using more spin.
+
+  2) I will get the ball over the net by using a lower backswing.
+
+  2) I can't hit a backhand.
 
 2\. Leadership (Don't tryout, standout" - anonymous)
 
