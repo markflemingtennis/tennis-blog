@@ -33,11 +33,11 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 * Successful competitors enjoy the process of developing the technical, physical, intellectual, and psychological aspects required by the game.
 * The positive player enjoys the competitive match play environment with its' challenge of testing their aforementioned skills against capable opponents.   
 
-  ## Avoid Negative Self-Talk
-  * Negative self-talk can be very detrimental to both your level of skill development and your match play success.
-  * 
+## Avoid Negative Self-Talk
 
-  ## Positive Self-Talk
+* Negative self-talk can be very detrimental to both your level of skill development and your match play success.
+
+## Positive Self-Talk
 
 2\. Leadership (Don't tryout, standout" - anonymous)
 
