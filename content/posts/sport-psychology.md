@@ -15,6 +15,8 @@ A commonly held principle among tennis participants is that being an individual 
 
 Players are frequently heard subsequent to an unsuccessful match stating “they didn’t beat me, I beat myself”.
 
+Roger Federer and Rafael Nadal two of the greatest players of all-time are still competing today at the ages of 38 and 40 respectively. A valuable characteristic of many which both of these great champions possess is their exceptional positive attitudes and utilization of positive energy. 
+
 This five part series on areas of Tennis-Specific Mental Training has as its’ purpose to provide you with some tips which may help you improve your tennis from a psychological standpoint.
 
 A first aspect being addressed is establishing a positive attitude and demonstrating positive energy on the tennis court.
@@ -30,6 +32,8 @@ A first aspect being addressed is establishing a positive attitude and demonstra
 * The positive player embraces the challenge of tennis. 
 * Successful competitors enjoy the process of developing the technical, physical, intellectual, and psychological aspects required by the game.
 * The positive player enjoys the competitive match play environment with its' challenge of testing their technical, physical, intellectual, and psychological skills against capable opponents.   
+
+  ## Avoid Negative Self-Talk
 
   ## Positive Self-Talk
 
