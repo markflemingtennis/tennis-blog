@@ -19,17 +19,19 @@ This five part series on areas of Tennis-Specific Mental Training has as its’ 
 
 A first aspect being addressed is establishing a positive attitude and demonstrating positive energy on the tennis court.
 
-## Positive Attitude
+## Embrace A Positive Attitude
 
-* Attitude in tennis includes the thoughts, beliefs, emotions and/or feelings an individual  has about the game and their tennis ability.
+* A individual's attitude in tennis includes the thoughts, beliefs, emotions, opinions, and feelings they may possesses about the game and their tennis ability.
 * Attitudes can ultimately reflect the way a player behaves in the competitive environment and their level of play in the game.
 * The player with the positive attitude has an affection toward tennis, believes in themselves, and has a willingness to demonstrate an effort to become the best player they are capable of becoming.
 
 ## Enjoy The Tennis Experience
 
 * The positive player embraces the challenge of tennis. 
-* Successful competitors enjoy the journey of developing the technical, physical, intellectual, and psychological aspects required by the game.
-* The positive player enjoys the competitive environment and the challenge of testing their skills against a capable opponent.   
+* Successful competitors enjoy the process of developing the technical, physical, intellectual, and psychological aspects required by the game.
+* The positive player enjoys the competitive match play environment with its' challenge of testing their technical, physical, intellectual, and psychological skills against capable opponents.   
+
+  ## Positive Self-Talk
 
 2\. Leadership (Don't tryout, standout" - anonymous)
 
