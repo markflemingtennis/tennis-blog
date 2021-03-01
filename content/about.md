@@ -31,9 +31,35 @@ Attained the number one West Virginia State open doubles ranking twice, and a nu
 
 Ranked as high as 16th in the Middle States Tennis Association 35 and over singles
 
-Selected to the prestigious Allegheny Mountain District tennis squad for four years for the 35 and over Interdistrict Team Championships winning USTA/Middle States Association Interdistrict team. 
+Selected to the prestigious Allegheny Mountain District tennis squad for four years for the 35 and over Interdistrict USTA/Middle States Association Team Championships including contributing three victories to a winning team. (NJ (S), P (D), C (S)) (LHV ?)
 
 Won both the Allegheny Mountain PTA Open singles and doubles titles
+
+PERSONAL TENNIS PLAYING HIGHLIGHTS:  
+\* 2012 Played 55 Doubles for Wisconsin at Midwest Sr. Team Championships  
+\* 2011 Ranked #8 In Wisconsin Tennis Association 55 Singles  
+\* 2010 Ranked #7 In Wisconsin Tennis Association 55 Singles  
+\* 2009 Ranked #7 In Wisconsin Tennis Association 55 Singles  
+\* 2008 Ranked #11 In Wisconsin Tennis Association 45 Singles  
+\* 2007 Ranked #23 In Wisconsin Tennis Association Open Singles  
+\* 2004 Erie County (PA) 45 & Over Singles Champion  
+\* 1991 Pennbank Clay Court Open (St. Mary’s, PA) 35 & Over Singles Champion  
+\* 1990 Member AMTA 1st Place Team at MSTA 35 Team Interdistricts  
+\* 1989-1992 AMTA Player at MSTA 35 Team Interdistricts  
+\* 1989 Allegheny Mountain PTA Open Singles & Doubles Champion (w/ Ray Yost)  
+\* 1983 Ranked #5 West Virginia State Open Singles  
+\* 1983 Ranked #1 West Virginia State Open Doubles (w/ Terry Deremer)  
+\* 1983 Monangalia County (WV) Open Singles Champion  
+\* 1983 Fairmont (WV) State College Open Doubles Champion (w/ Terry Deremer)  
+\* 1983 University of Charleston (WV) Open Doubles Champion (w/ Terry Deremer)  
+\* 1981 Ranked #1 West Virginia State Open Doubles (w/ Terry Deremer)  
+\* 1981 Fairmont (WV) State College Open Singles Champion  
+\* 1979 Winona (MN) Steamboat Days Open Singles & Doubles Champion (w/ Mike Tomashek)  
+\* 1978 Winona (MN) Steamboat Days Doubles Champion (w/ Paul Humphries)  
+\* 1976 Tennis Player’s Club (NY) Open Singles Champion  
+\* 1972 NYPHSAA Section 5 & Wayne County Singles Champion (26-1)  
+\* 1972 Victor HS Tennis Day Singles Champion  
+\* 1971 NYPHSAA Section 5 & Wayne County Singles Champion (26-1)
 
 ### TEACHING CAREER
 
@@ -51,18 +77,29 @@ _Director and Tennis Professional_, Mark Fleming Tennis Programs, Meadville, PA;
 
 ### INTERCOLLEGIATE COACHING CAREER
 
-_Head Men’s and Women’s Tennis Coach,_ Allegheny College, Meadville, PA; 1984-2003; Record: 500-308
+_Head Men’s Tennis Coach,_ Brockport State University, Brockport, NY; 1977-1978; Record: 6-1
 
 _Men’s Tennis Coach,_ University of Minnesota at Mankato, Mankato, MN; 1978-1979; Record: 13-7
 
-_Head Men’s Tennis Coach,_ Brockport State University, Brockport, NY; 1977-1978; Record: 6-1
+_Head Men’s and Women’s Tennis Coach,_ Allegheny College, Meadville, PA; 1984-2003; Record: 500-308
 
 ### EDUCATION
 
-Featured in _Addvantage Magazine_ as second-ranked USPTA member for USPTA career development credits
-
-Supervisory Training Program for Business Certification. _West Virginia State Department of Education_
+B.S. in Sport Science/P.E. Teacher Certification. _State University of New York at Brockport_
 
 M.S. in Sport Psychology/Athletic Administration. _Minnesota State University at Mankato_
 
-B.S. in Sport Science/P.E. Teacher Certification. _State University of New York at Brockport_
+Supervisory Training Program for Business Certification. _West Virginia State Department of Education_
+
+Featured in _Addvantage Magazine_ as second-ranked USPTA member for USPTA career development credits
+
+###   
+Honors & Awards
+
+Named To The “Erie’s Aces: Area’s Greatest Tennis Players” List
+
+Received 42 USPTA Continuing Education Credits being featured in Addvantage Magazine as the second ranked USPTA member nationally for the year for career development credits.
+
+Three Time North Coast Athletic Conference “Women’s Coach of the Year”.
+
+Two Time USPTA Middle States Division “College Coach of the Year.”
