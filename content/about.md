@@ -11,7 +11,7 @@ My first vague memory of playing tennis was when a friend and I took a few backy
 
 Fortunately my tennis progressed in a consistently rising fashion through the next few years.
 
-Like many preteens and teenagers in the late 60s and early 70s I rode my bike to the local elementary school playground which had a playing field, one tennis court, and one basketball court. During summer months it was common stayed from morning to dinner with a break for lunch.
+Like many preteens and teenagers in the late 60s and early 70s I rode my bike to the local elementary school playground which had a playing field, one tennis court, and one basketball court. During summer months it was common to stay from morning to dinner with a break for lunch.
 
 We played all sports including tennis, baseball, basketball, and touch football all which would later help me in my tennis game.
 
@@ -21,6 +21,34 @@ My formal tennis began subsequent to informing my father I wanted to learn how t
 
 ### Playing Career
 
-As a player I played first singles for my high school team for three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion,
+As a player I played first singles for my high school team for three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
 
 My college years saw me playing first singles for the team all four years placing second place in the State University of New Athletic Conference Tournament at both first singles and first doubles during that time.
+
+He played first singles for his for his high school team for three years being a two time sectional champion, and first singles for his college team four all four years placing second in the State University of New Athletic Conference. 
+
+Mark also achieved tournament singles rankings at the state level and USTA Sectional level. 
+
+Attained the number one West Virginia State open doubles ranking twice, and a number five open singles ranking
+
+Ranked as high as 16th in the Middle States Tennis Association 35 and over singles
+
+Selected to the prestigious Allegheny Mountain District tennis squad for four years for the 35 and over Interdistrict Team Championships winning USTA/Middle States Association Interdistrict team. 
+
+Won both the Allegheny Mountain PTA Open singles and doubles titles
+
+Teaching Career
+
+_Tennis Professional,_ Princeton Club, New Berlin, WI; September 2006-present
+
+_Director of Programs,_ Westwood Racquet Club, Erie, PA; August 2004-September 2006
+
+_Director of Tennis,_ Fairview Recreation Summer Tennis Program, Fairview, PA; Summer 2006
+
+_Head Professional,_ Fairview Recreation Summer Tennis Program, Fairview, PA; Summers 2004-2005
+
+_Tennis Professional_, Westwood Racquet Club, Erie, PA; September 2003-May 2004
+
+_Director and Tennis Professional_, Mark Fleming Tennis Programs, Meadville, PA; 1985-2003
+
+_Director of Tennis and Manager,_ Glade Springs Racquet Club, Daniels, WV; 1982-1983
