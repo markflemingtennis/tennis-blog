@@ -19,13 +19,11 @@ My formal tennis began subsequent to informing my father I wanted to learn how t
 
 ![me-on-grass-court](/images/img_0389.jpeg)
 
-### Playing Career
+### PLAYING CAREER
 
 As a player I played first singles for my high school team for three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
 
 My college years saw me playing first singles for the team all four years placing second place in the State University of New Athletic Conference Tournament at both first singles and first doubles during that time.
-
-He played first singles for his for his high school team for three years being a two time sectional champion, and first singles for his college team four all four years placing second in the State University of New Athletic Conference. 
 
 Mark also achieved tournament singles rankings at the state level and USTA Sectional level. 
 
@@ -37,7 +35,7 @@ Selected to the prestigious Allegheny Mountain District tennis squad for four ye
 
 Won both the Allegheny Mountain PTA Open singles and doubles titles
 
-Teaching Career
+### TEACHING CAREER
 
 _Tennis Professional,_ Princeton Club, New Berlin, WI; September 2006-present
 
@@ -51,4 +49,20 @@ _Tennis Professional_, Westwood Racquet Club, Erie, PA; September 2003-May 2004
 
 _Director and Tennis Professional_, Mark Fleming Tennis Programs, Meadville, PA; 1985-2003
 
-_Director of Tennis and Manager,_ Glade Springs Racquet Club, Daniels, WV; 1982-1983
+### INTERCOLLEGIATE COACHING CAREER
+
+_Head Men’s and Women’s Tennis Coach,_ Allegheny College, Meadville, PA; 1984-2003; Record: 500-308
+
+_Men’s Tennis Coach,_ University of Minnesota at Mankato, Mankato, MN; 1978-1979; Record: 13-7
+
+_Head Men’s Tennis Coach,_ Brockport State University, Brockport, NY; 1977-1978; Record: 6-1
+
+### EDUCATION
+
+Featured in _Addvantage Magazine_ as second-ranked USPTA member for USPTA career development credits
+
+Supervisory Training Program for Business Certification. _West Virginia State Department of Education_
+
+M.S. in Sport Psychology/Athletic Administration. _Minnesota State University at Mankato_
+
+B.S. in Sport Science/P.E. Teacher Certification. _State University of New York at Brockport_
