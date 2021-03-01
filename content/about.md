@@ -83,6 +83,20 @@ _Men’s Tennis Coach,_ University of Minnesota at Mankato, Mankato, MN; 1978-19
 
 _Head Men’s and Women’s Tennis Coach,_ Allegheny College, Meadville, PA; 1984-2003; Record: 500-308
 
+\* 500 Team Victories (257 Women) (243 Men)  
+\* Qualified Player for Division III National Tournament Twice  
+\* Won Inaugural North Coast Athletic Conference Women's Championship  
+\* One player selected as "Allegheny Senior Athlete of the Year"  
+\* Two players enshrined in "Allegheny Hall Of Fame".  
+\* One Player Named To 1984-1993 All Decade Singles Team  
+\* 53 singles players and 20 doubles teams earned All-Conference honors  
+\* 3 players selected as District II Academic All-Americans  
+\* One player named to the National Academic All-American Team  
+\* 5 squads selected as ITA National All-Academic Teams  
+\* 19 team members awarded ITA All-American Scholar-Athlete certificates  
+\* 3 individuals awarded the “Allegheny Senior Scholar-Athlete of the Year"  
+\* One Player Named To The “Erie’s Aces: Area’s Greatest Tennis Players” List…see more
+
 ### EDUCATION
 
 B.S. in Sport Science/P.E. Teacher Certification. _State University of New York at Brockport_
