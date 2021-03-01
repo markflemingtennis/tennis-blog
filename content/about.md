@@ -95,7 +95,7 @@ _Head Men’s and Women’s Tennis Coach,_ Allegheny College, Meadville, PA; 198
 \* 5 squads selected as ITA National All-Academic Teams  
 \* 19 team members awarded ITA All-American Scholar-Athlete certificates  
 \* 3 individuals awarded the “Allegheny Senior Scholar-Athlete of the Year"  
-\* One Player Named To The “Erie’s Aces: Area’s Greatest Tennis Players” List…see more
+\* One Player Named To The “Erie’s Aces: Area’s Greatest Tennis Players” List
 
 ### EDUCATION
 
