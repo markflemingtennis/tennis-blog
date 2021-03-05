@@ -13,13 +13,15 @@ Fortunately my tennis progressed in a consistently rising fashion through the ne
 
 Like many preteens and teenagers in the late 60s and early 70s I rode my bike to the local elementary school playground which had a playing field, one tennis court, and one basketball court. During summer months it was common to stay from morning to dinner with a break for lunch.
 
-We played all sports including tennis, baseball, basketball, and touch football all which would later help me in my tennis game.
+We played all sports at "the playground" throughout my elementary and junior high school years including tennis, baseball, basketball, and touch football all which would later help me in my tennis game.
 
-My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
+During my elementary school years I competed in interschool soccer and basketball as well as playing summer intertown baseball.
 
-![me-on-grass-court](/images/img_0389.jpeg)
+Although playing successfully interscholastically on my on my junior high school soccer, basketball, and baseball teams I was not to compete formally until my freshman year of high school when the Varsity tennis coach knowing of my athletic ability and extensive recreational tennis tennis experience approached regarding playing on the team.
 
 ### PLAYING CAREER
+
+My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
 
 As a player I played first singles for my high school team for three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
 
