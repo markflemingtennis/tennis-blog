@@ -17,13 +17,15 @@ We played all sports at "the playground" throughout my elementary and junior hig
 
 During my elementary school years I competed in interschool soccer and basketball as well as playing summer intercommunity baseball leagues.
 
-Although playing successfully interscholastically on my on my junior high school soccer, basketball, and baseball teams I was not to compete formally until my freshman year of high school when the Varsity tennis coach knowing of my athletic ability and extensive recreational tennis experience approached me regarding playing on the team.
+Although playing successfully interscholastically on my on my junior high school soccer, basketball, and baseball teams I was not to compete formally in tennis until my freshman year of high school when the Varsity Coach knowing of my athletic ability and extensive recreational tennis experience approached me regarding playing on the team.
 
 ### PLAYING CAREER
 
 As a freshman I played doubles on a predominantly senior laden team. 
 
-My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
+My formal tennis began subsequent to informing my father I wanted to learn how to play advanced tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
+
+Throughout that summer I studied the game voraciously through magazines, book, and observing and analyzing television matches.
 
 As a player I played first singles for my high school team for three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
 
