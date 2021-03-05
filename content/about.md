@@ -25,7 +25,7 @@ As a player I played first singles for my high school team for three years recor
 
 My college years saw me playing first singles for the team all four years placing second place in the State University of New Athletic Conference Tournament at both first singles and first doubles during that time.
 
-Mark also achieved tournament singles rankings at the state level and USTA Sectional level. 
+Throughout the years I have achieved tournament singles rankings at the state level, The USTA District level, and the USTA Sectional level while residing in West Virginia, Pennsylvania, and Wisconsin.
 
 Attained the number one West Virginia State open doubles ranking twice, and a number five open singles ranking
 
@@ -107,8 +107,7 @@ Supervisory Training Program for Business Certification. _West Virginia State De
 
 Featured in _Addvantage Magazine_ as second-ranked USPTA member for USPTA career development credits
 
-###   
-Honors & Awards
+### Honors & Awards
 
 Named To The “Erie’s Aces: Area’s Greatest Tennis Players” List
 
