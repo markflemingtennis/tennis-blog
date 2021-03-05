@@ -15,11 +15,13 @@ Like many preteens and teenagers in the late 60s and early 70s I rode my bike to
 
 We played all sports at "the playground" throughout my elementary and junior high school years including tennis, baseball, basketball, and touch football all which would later help me in my tennis game.
 
-During my elementary school years I competed in interschool soccer and basketball as well as playing summer intertown baseball.
+During my elementary school years I competed in interschool soccer and basketball as well as playing summer intercommunity baseball leagues.
 
-Although playing successfully interscholastically on my on my junior high school soccer, basketball, and baseball teams I was not to compete formally until my freshman year of high school when the Varsity tennis coach knowing of my athletic ability and extensive recreational tennis tennis experience approached regarding playing on the team.
+Although playing successfully interscholastically on my on my junior high school soccer, basketball, and baseball teams I was not to compete formally until my freshman year of high school when the Varsity tennis coach knowing of my athletic ability and extensive recreational tennis experience approached me regarding playing on the team.
 
 ### PLAYING CAREER
+
+As a freshman I played doubles on a predominantly senior laden team. 
 
 My formal tennis began subsequent to informing my father I wanted to learn how to play tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
 
