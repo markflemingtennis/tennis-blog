@@ -35,7 +35,7 @@ I additionally took every opportunity to hit all my shots against a wall, hit pr
 
 My efforts were rewarded as I played first singles for my high school team my sophomore, junior, and senior seasons.
 
-or three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
+For three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
 
 My college years saw me playing first singles for the team all four years placing second place in the State University of New Athletic Conference Tournament at both first singles and first doubles during that time.
 
