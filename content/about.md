@@ -33,7 +33,7 @@ Throughout that summer I studied the game voraciously through books, magazines, 
 
 I additionally took every opportunity to hit all my shots against a wall, hit practice serves daily, and practice and play sets against anyone who would play with me, mostly college age former high school players.
 
-Rewarded by my efforts I was to play first singles for my high school team my sophomore, junior, and senior seasons.
+Rewarded by my efforts, I was to play first singles for the remainder of my high school career, my sophomore, junior, and senior seasons.
 
 For three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
 
