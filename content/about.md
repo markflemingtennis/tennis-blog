@@ -31,7 +31,7 @@ My father (having the mindset of Will Hunting many years prior to the movie) bel
 
 Throughout that summer I studied the game voraciously through books, magazines, and observing and analyzing television matches.
 
-I additionally took every opportunity to hit all my shots against a wall, hit practice serves daily, and practice and play sets against anyone who would play with me, mostly college age former high players.
+I additionally took every opportunity to hit all my shots against a wall, hit practice serves daily, and practice and play sets against anyone who would play with me, mostly college age former high school players.
 
 Rewarded by my efforts I was to play first singles for my high school team my sophomore, junior, and senior seasons.
 
