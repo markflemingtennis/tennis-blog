@@ -17,17 +17,25 @@ We played all sports at "the playground" throughout my elementary and junior hig
 
 During my elementary school years I competed in interschool soccer and basketball as well as playing summer intercommunity baseball leagues.
 
-Although playing successfully interscholastically on my on my junior high school soccer, basketball, and baseball teams I was not to compete formally in tennis until my freshman year of high school when the Varsity Coach knowing of my athletic ability and extensive recreational tennis experience approached me regarding playing on the team.
+Although my junior high school I played successfully interscholastically on my soccer, basketball, and baseball teams. 
+
+I began to compete formally in tennis my high school freshman year when the Varsity Coach knowing of my athletic ability and extensive recreational tennis experience approached me regarding playing on the team.
 
 ### PLAYING CAREER
 
-As a freshman I played doubles on a predominantly senior laden team. 
+Gaining experience as freshman, I played doubles unremarkably on a predominantly senior laden team.  
 
-My formal tennis began subsequent to informing my father I wanted to learn how to play advanced tennis. My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
+Motivated to greatly improve my formal tennis began subsequent to informing my father I wanted to learn how to play advanced tennis. 
 
-Throughout that summer I studied the game voraciously through magazines, book, and observing and analyzing television matches.
+My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
 
-As a player I played first singles for my high school team for three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
+Throughout that summer I studied the game voraciously through books, magazines, and observing and analyzing television matches.
+
+I additionally took every opportunity to hit all my shots against a wall, hit practice serves daily, and practice and play sets against anyone who would play wit me mostly college age individuals who were former high players.
+
+My efforts were rewarded as I played first singles for my high school team my sophomore, junior, and senior seasons.
+
+or three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
 
 My college years saw me playing first singles for the team all four years placing second place in the State University of New Athletic Conference Tournament at both first singles and first doubles during that time.
 
