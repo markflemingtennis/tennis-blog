@@ -25,15 +25,15 @@ I began to compete formally in tennis my high school freshman year when the Vars
 
 Gaining experience as freshman, I played doubles unremarkably on a predominantly senior laden team.  
 
-Motivated to greatly improve my formal tennis began subsequent to informing my father I wanted to learn how to play advanced tennis. 
+Motivated to greatly improve, my formal tennis began subsequent to informing my father I wanted to learn how to play advanced tennis. 
 
-My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library.
+My father (having the mindset of Will Hunting many years prior to the movie) believed anything worth learning can be learned at the public library and proceeded to bring me home tennis books.
 
 Throughout that summer I studied the game voraciously through books, magazines, and observing and analyzing television matches.
 
-I additionally took every opportunity to hit all my shots against a wall, hit practice serves daily, and practice and play sets against anyone who would play wit me mostly college age individuals who were former high players.
+I additionally took every opportunity to hit all my shots against a wall, hit practice serves daily, and practice and play sets against anyone who would play with me, mostly college age former high players.
 
-My efforts were rewarded as I played first singles for my high school team my sophomore, junior, and senior seasons.
+Rewarded by my efforts I was to play first singles for my high school team my sophomore, junior, and senior seasons.
 
 For three years recording a record of 66-5 while being a two time New York State Public High School Section V Tournament champion.
 
