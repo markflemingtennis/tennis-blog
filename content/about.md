@@ -35,9 +35,7 @@ I additionally took every opportunity to hit all my shots against a wall, hit pr
 
 Rewarded by my efforts, I was to play first singles for the remainder of my high school career, my sophomore, junior, and senior seasons.
 
-Individually I charted a 66-5 record through my final three years. 
-
-while being a two time New York State Public High School Section V Tournament champion.
+Individually I charted a 66-5 record through my final three years.  while being a two time New York State Public High School Section V Tournament champion.
 
 My college years saw me playing first singles for the team all four years placing second place in the State University of New Athletic Conference Tournament at both first singles and first doubles during that time.
 
